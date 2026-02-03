@@ -1,0 +1,193 @@
+[
+  {
+    "id": 1,
+    "name": "Seblak Nangerang",
+    "price": "Rp. 1.000/toping–10.000",
+    "location": "Jl. Anggrek No. 15, Sumedang",
+    "image": "/src/assets/umkm/seblak-nangerang.webp",
+    "category": "makanan",
+
+    "description": "Seblak khas dengan cita rasa pedas gurih dan pilihan topping beragam.",
+    "menu": [
+      { "name": "Seblak Original", "price": "Rp. 10.000" },
+      { "name": "Seblak Ceker", "price": "Rp. 15.000" }
+    ],
+    "gallery": [
+      "/src/assets/umkm/seblak-1.webp",
+      "/src/assets/umkm/seblak-2.webp"
+    ],
+    "contact": "0812-3456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Es Kopi Gula Aren",
+    "price": "Rp. 8.000–15.000",
+    "location": "Jl. Prabu Gajah Agung No. 22, Sumedang",
+    "image": "/src/assets/umkm/es-kopi.webp",
+    "category": "minuman",
+
+    "description": "Minuman kopi susu segar dengan gula aren asli.",
+    "menu": [
+      { "name": "Es Kopi Susu", "price": "Rp. 10.000" },
+      { "name": "Es Kopi Aren", "price": "Rp. 15.000" }
+    ],
+    "gallery": [],
+    "contact": "0821-1111-2222"
+  },
+  {
+    "id": 3,
+    "name": "Bakso Mang Endang",
+    "price": "Rp. 10.000–20.000",
+    "location": "Jl. Kutamaya No. 10, Sumedang",
+    "image": "/src/assets/umkm/bakso-mang-endang.webp",
+    "category": "makanan",
+
+    "description": "Bakso daging sapi dengan kuah gurih dan isian lengkap.",
+    "menu": [
+      { "name": "Bakso Biasa", "price": "Rp. 10.000" },
+      { "name": "Bakso Jumbo", "price": "Rp. 20.000" }
+    ],
+    "gallery": [],
+    "contact": "0857-8888-9999"
+  },
+  {
+    "id": 4,
+    "name": "Laundry Bersih Wangi",
+    "price": "Rp. 5.000/kg",
+    "location": "Jl. Pahlawan No. 5, Sumedang",
+    "image": "/src/assets/umkm/laundry.webp",
+    "category": "jasa",
+
+    "description": "Layanan laundry cepat, bersih, dan wangi.",
+    "services": [
+      { "name": "Cuci Kering", "price": "Rp. 5.000/kg" },
+      { "name": "Cuci Setrika", "price": "Rp. 7.000/kg" }
+    ],
+    "gallery": [],
+    "contact": "0813-2222-3333"
+  },
+  {
+    "id": 5,
+    "name": "Cilok Goang Asep",
+    "price": "Rp. 1.000–5.000",
+    "location": "Jl. Karanganyar No. 8, Sumedang",
+    "image": "/src/assets/umkm/cilok-goang.webp",
+    "category": "makanan",
+
+    "description": "Cilok kenyal dengan bumbu kacang dan sambal goang.",
+    "menu": [
+      { "name": "Cilok Original", "price": "Rp. 1.000/butir" },
+      { "name": "Cilok Isi", "price": "Rp. 2.000/butir" }
+    ],
+    "gallery": [],
+    "contact": "0822-3333-4444"
+  },
+  {
+    "id": 6,
+    "name": "Percetakan Cepat Jaya",
+    "price": "Mulai Rp. 50.000",
+    "location": "Jl. Talun No. 11, Sumedang",
+    "image": "/src/assets/umkm/percetakan.webp",
+    "category": "jasa",
+
+    "description": "Melayani percetakan banner, brosur, dan undangan.",
+    "services": [
+      { "name": "Cetak Banner", "price": "Mulai Rp. 50.000" },
+      { "name": "Cetak Brosur", "price": "Mulai Rp. 100.000" }
+    ],
+    "gallery": [],
+    "contact": "0819-5555-6666"
+  },
+  {
+    "id": 7,
+    "name": "Tahu Sumedang Maknyus",
+    "price": "Rp. 2.000–10.000",
+    "location": "Jl. Mayor Abdurahman No. 3, Sumedang",
+    "image": "/src/assets/umkm/tahu-sumedang.webp",
+    "category": "makanan",
+
+    "description": "Tahu Sumedang goreng hangat dan renyah.",
+    "menu": [
+      { "name": "Tahu Goreng", "price": "Rp. 2.000/biji" }
+    ],
+    "gallery": [],
+    "contact": "0856-7777-8888"
+  },
+  {
+    "id": 8,
+    "name": "Es Duren Segar",
+    "price": "Rp. 12.000–20.000",
+    "location": "Jl. Darmaraja No. 7, Sumedang",
+    "image": "/src/assets/umkm/es-duren.webp",
+    "category": "minuman",
+
+    "description": "Minuman es durian segar dengan daging durian asli.",
+    "menu": [
+      { "name": "Es Duren Cup", "price": "Rp. 12.000" },
+      { "name": "Es Duren Jumbo", "price": "Rp. 20.000" }
+    ],
+    "gallery": [],
+    "contact": "0812-9999-0000"
+  },
+  {
+    "id": 9,
+    "name": "Jasa Potong Rambut Kang Asep",
+    "price": "Rp. 15.000–25.000",
+    "location": "Jl. Tegal Kalong No. 2, Sumedang",
+    "image": "/src/assets/umkm/barbershop.webp",
+    "category": "jasa",
+
+    "description": "Jasa potong rambut pria dengan gaya modern dan rapi.",
+    "services": [
+      { "name": "Potong Rambut", "price": "Rp. 15.000" },
+      { "name": "Cukur & Styling", "price": "Rp. 25.000" }
+    ],
+    "gallery": [],
+    "contact": "0838-4444-5555"
+  },
+  {
+    "id": 10,
+    "name": "Nasi Tutug Oncom Bu Euis",
+    "price": "Rp. 10.000–18.000",
+    "location": "Jl. Simpang No. 9, Sumedang",
+    "image": "/src/assets/umkm/nasi-tutug.webp",
+    "category": "makanan",
+
+    "description": "Nasi tutug oncom khas Sunda dengan lauk tradisional.",
+    "menu": [
+      { "name": "Tutug Oncom Ayam", "price": "Rp. 15.000" }
+    ],
+    "gallery": [],
+    "contact": "0815-6666-7777"
+  },
+  {
+    "id": 11,
+    "name": "Minuman Thai Tea Cinta Rasa",
+    "price": "Rp. 8.000–12.000",
+    "location": "Jl. Cipacing No. 4, Sumedang",
+    "image": "/src/assets/umkm/thai-tea.webp",
+    "category": "minuman",
+
+    "description": "Thai tea manis dan creamy dengan berbagai varian.",
+    "menu": [
+      { "name": "Thai Tea Original", "price": "Rp. 8.000" }
+    ],
+    "gallery": [],
+    "contact": "0823-1111-9999"
+  },
+  {
+    "id": 12,
+    "name": "Laundry Kilat Express",
+    "price": "Rp. 6.000/kg",
+    "location": "Jl. Parakanmuncang No. 6, Sumedang",
+    "image": "/src/assets/umkm/laundry-express.webp",
+    "category": "jasa",
+
+    "description": "Laundry kilat selesai dalam 1 hari.",
+    "services": [
+      { "name": "Laundry Express", "price": "Rp. 6.000/kg" }
+    ],
+    "gallery": [],
+    "contact": "0817-3333-2222"
+  }
+]

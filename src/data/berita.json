@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "judul": "Gotong Royong Pembersihan Saluran Air",
+    "tanggal": "13 Mei 2024",
+    "gambar": "/berita1.jpg"
+  },
+  {
+    "id": 2,
+    "judul": "Musyawarah Tahunan Desa",
+    "tanggal": "10 Mei 2024",
+    "gambar": "/berita2.jpg"
+  },
+  {
+    "id": 3,
+    "judul": "Festival Panen Raya",
+    "tanggal": "02 Mei 2024",
+    "gambar": "/berita3.jpg"
+  }
+]

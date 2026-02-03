@@ -1,0 +1,66 @@
+{
+  "judul": "Mengenal Desa Buahdua",
+  "tagline": "Desa yang tumbuh dengan semangat kebersamaan, budaya, dan kemandirian",
+
+  "deskripsi": [
+    "Desa Buahdua merupakan salah satu desa yang berada di Kecamatan Buahdua, Kabupaten Sumedang. Desa ini memiliki letak geografis yang cukup strategis karena berada di jalur penghubung antara Kabupaten Sumedang, Indramayu, dan Subang.",
+    "Dengan kondisi alam yang subur serta masyarakat yang menjunjung tinggi nilai kebersamaan dan gotong royong, Desa Buahdua terus berkembang sebagai desa yang aktif, berdaya, dan berbudaya.",
+    "Desa Buahdua dikenal pula dengan julukan “Jogya Dua”, sebuah sebutan yang lahir dari peristiwa bersejarah pada masa perjuangan kemerdekaan Republik Indonesia."
+  ],
+
+  "identitas": {
+    "julukan": "Jogya Dua",
+    "kecamatan": "Buahdua",
+    "kabupaten": "Sumedang",
+    "ketinggian": "±400 mdpl"
+  },
+
+  "geografis": {
+    "deskripsi": "Desa Buahdua terletak di dataran tinggi dengan bentang alam perbukitan, hamparan persawahan, dan aliran sungai yang mendukung pertanian.",
+    "batas": {
+      "Barat": "Desa Bojongloa dan Kecamatan Tanjungkerta",
+      "Utara": "Desa Gendereh dan Kecamatan Gantar (Kab. Indramayu)",
+      "Timur": "Desa Panyindangan dan Kecamatan Conggeang",
+      "Selatan": "Desa Panyindangan dan Kecamatan Cimalaka"
+    },
+    "sungai": ["Ciwalung", "Ciporong", "Cilogang"]
+  },
+
+  "mataPencaharian": [
+    "Petani dan buruh tani",
+    "Wiraswasta dan pelaku UMKM",
+    "Buruh, pegawai swasta, dan sektor jasa lainnya"
+  ],
+
+  "budaya": [
+    "Kuda Renggong",
+    "Wayang Golek dan Jaipongan",
+    "Seni Degung dan Gamelan",
+    "Tradisi adat dan kesenian masyarakat"
+  ],
+
+  "potensi": [
+    "Pengembangan desa berbasis pertanian dan UMKM",
+    "Pelestarian budaya lokal dan lingkungan",
+    "Pemanfaatan teknologi tepat guna untuk ekonomi masyarakat"
+  ],
+
+  "visiMisi": {
+    "visi": "BUAHDUA INOVATIF, SEJAHTERA, AGAMIS PADA TAHUN 2028 (Buahdua \"BISA\")",
+
+    "misi": [
+      {
+        "id": 1,
+        "isi": "Sikap prilaku masyarakat yang Agamis mencerminkan sikap refleksi nilai-nilai agama yang diyakininya ditandai dengan adanya kegiatan keagamaan."
+      },
+      {
+        "id": 2,
+        "isi": "Menciptakan masyarakat Desa Buahdua yang maju secara ekonomi dan infrastruktur sehingga menciptakan kebahagiaan dalam menjalani kehidupan bermasyarakat ditandai dengan meningkatnya IKM, rendahnya angka kemiskinan, meningkatnya distribusi pendapatan dan menurunnya angka stunting."
+      },
+      {
+        "id": 3,
+        "isi": "Inovatif didasarkan pada beberapa ide-ide yang menjadi faktor penting dalam pertumbuhan ekonomi. Manajemen inovasi membantu sebuah pemerintahan untuk memahami kesempatan dan menggunakan kesempatan untuk memperkenalkan ide-ide baru. Dasar dari manajemen inovasi adalah kreativitas, dan tujuan akhirnya adalah perubahan dalam pelayanan prima terhadap masyarakat serta dapat memicu dan menyebarkan kemampuan kreatif dari aparatur pemerintah desa untuk pengembangan yang berkesinambungan."
+      }
+    ]
+  }
+}

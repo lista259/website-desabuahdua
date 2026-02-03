@@ -1,0 +1,16 @@
+{
+  "desa": {
+    "nama": "Desa Buahdua",
+    "kecamatan": "Buahdua",
+    "kabupaten": "Sumedang",
+    "slogan": "Maju Bersama, Sejahtera Bersama",
+    "deskripsi": "Desa Buahdua merupakan salah satu desa di Kecamatan Buahdua, Kabupaten Sumedang, yang memiliki potensi di bidang pertanian, pelayanan publik, dan pemberdayaan masyarakat."
+  },
+  "visi": "Terwujudnya Desa Buahdua yang Mandiri, Maju, dan Sejahtera",
+  "misi": [
+    "Meningkatkan kualitas pelayanan publik",
+    "Mengembangkan potensi desa",
+    "Mewujudkan pemerintahan desa yang transparan dan akuntabel",
+    "Meningkatkan kesejahteraan masyarakat"
+  ]
+}

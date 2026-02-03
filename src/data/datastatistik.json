@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "label": "Jumlah Penduduk",
+    "value": "3.624"
+  },
+  {
+    "id": 2,
+    "label": "Jumlah KK",
+    "value": "2.125"
+  },
+  {
+    "id": 3,
+    "label": "Luas Wilayah",
+    "value": "10.5 km²"
+  },
+  {
+    "id": 4,
+    "label": "Program Desa Aktif",
+    "value": "15"
+  }
+]
