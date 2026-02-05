@@ -1,0 +1,3 @@
+- [ ] Install react-social-media-embed package
+- [ ] Update import in Berita.jsx from 'react-social-embed' to 'react-social-media-embed'
+- [ ] Run dev server to verify the import resolves

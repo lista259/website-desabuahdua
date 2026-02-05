@@ -1,0 +1,104 @@
+{
+  "materi_edukatif": [
+    {
+      "id": "cegah-stunting",
+      "judul": "Mengenal Stunting dan Cara Pencegahannya",
+      "kategori": "Kesehatan",
+      "ringkasan": "Panduan lengkap bagi warga Desa Buahdua untuk memahami pola hidup sehat demi mencegah stunting.",
+      "konten": "Stunting adalah masalah kurang gizi kronis yang disebabkan oleh kurangnya asupan gizi dalam waktu yang cukup lama. Pencegahan utama adalah pada 1000 hari pertama kehidupan.",
+      "tipe_media": "artikel_luar",
+      "sumber": {
+        "nama": "Halodoc",
+        "url": "https://www.halodoc.com/kesehatan/stunting"
+      }
+    },
+    {
+        "id": "siaga-bencana-nasional",
+        "judul": "Panduan Tas Siaga Bencana: Persiapan Hadapi Berbagai Bencana",
+        "kategori": "Keamanan",
+        "ringkasan": "Basarnas merinci barang-barang wajib dalam Tas Siaga Bencana untuk menghadapi banjir, longsor, hingga erupsi.",
+        "konten": "Isi tas mencakup dokumen penting, alat komunikasi radio, perlengkapan P3K termasuk masker N95, serta kebutuhan dasar pangan dan sandang.",
+        "tipe_media": "video",
+        "video_id": "3wQciZ_idXQ",
+        "referensi_yt": "https://www.youtube.com/watch?v=3wQciZ_idXQ"
+    },
+    {
+      "id": "literasi-digital-anak",
+      "judul": "Tips Menjaga Keamanan Anak di Dunia Digital",
+      "kategori": "Pendidikan",
+      "ringkasan": "Panduan bagi orang tua di Desa Buahdua untuk memantau aktivitas daring anak.",
+      "konten": "Membahas cara mengatur batasan waktu layar dan memfilter konten yang tidak pantas untuk anak.",
+      "tipe_media": "video",
+      "video_id": "yrln8nyVBLU",
+      "referensi_yt": "https://youtu.be/yrln8nyVBLU"
+    },
+    {
+      "id": "pupuk-organik-cair",
+      "judul": "Cara Membuat Pupuk Organik Cair Sendiri",
+      "kategori": "Pertanian",
+      "ringkasan": "Memanfaatkan sisa bahan organik dapur untuk kesuburan lahan pertanian desa.",
+      "konten": "Tutorial praktis pembuatan pupuk cair (POC) yang kaya akan nutrisi untuk tanaman padi dan palawija.",
+      "tipe_media": "video",
+      "video_id": "8IFK1t64RyY",
+      "referensi_yt": "https://youtu.be/8IFK1t64RyY"
+    }
+  ],
+  "materi_sampah": [
+    {
+      "id": "dasar-pemilahan",
+      "judul": "Cara Memilah Sampah yang Benar di Rumah",
+      "kategori": "Edukasi",
+      "ringkasan": "Langkah nyata menjaga kebersihan Desa Buahdua dengan memisahkan jenis sampah.",
+      "konten": "Pemisahan sampah sejak dari sumber (rumah tangga) mempermudah proses daur ulang dan mengurangi bau.",
+      "tipe_media": "artikel_luar",
+      "sumber": {
+        "nama": "Ayo Sehat Kemenkes",
+        "url": "https://smartcity.jakarta.go.id/id/blog/lima-cara-mudah-mengelola-sampah/"
+      }
+    },
+    {
+      "id": "kompos-takakura",
+      "judul": "Metode Takakura: Mengompos di Lahan Sempit",
+      "kategori": "Tutorial",
+      "ringkasan": "Sangat cocok untuk warga desa yang ingin mengolah sampah organik secara mandiri.",
+      "konten": "Panduan teknis menyiapkan keranjang Takakura agar sampah organik tidak menjadi polusi aroma.",
+      "tipe_media": "video",
+      "video_id": "RL81UwUmGOE",
+      "referensi_yt": "https://youtu.be/RL81UwUmGOE"
+    },
+    {
+      "id": "ecobrick-kreatif",
+      "judul": "Panduan Membuat Ecobrick dari Plastik Bekas",
+      "kategori": "Tutorial",
+      "ringkasan": "Teknik memadatkan plastik ke dalam botol untuk dijadikan furniture sederhana.",
+      "konten": "Langkah demi langkah membuat blok bangunan ramah lingkungan dari plastik yang sulit didaur ulang.",
+      "tipe_media": "video",
+      "video_id": "afrYd2lzLkY",
+      "referensi_yt": "https://youtu.be/afrYd2lzLkY"
+    },
+    {
+      "id": "bahaya-bakar-sampah",
+      "judul": "Dampak Buruk Membakar Sampah bagi Paru-Paru",
+      "kategori": "Edukasi",
+      "ringkasan": "Mengapa kita harus berhenti membakar sampah di pekarangan rumah.",
+      "konten": "Asap hasil pembakaran plastik mengandung racun berbahaya yang dapat memicu penyakit pernapasan kronis.",
+      "tipe_media": "artikel_luar",
+      "sumber": {
+        "nama": "Halodoc",
+        "url": "https://www.halodoc.com/artikel/bahaya-membakar-sampah-bagi-kesehatan?srsltid=AfmBOorphImCrrjAhIFDwsiiCN1fHnZ3nC80hxFMtXARKkVEJEZJ3xaE"
+      }
+    },
+    {
+      "id": "bank-sampah-desa",
+      "judul": "Mengenal Bank Sampah dan Cara Kerjanya",
+      "kategori": "Referensi",
+      "ringkasan": "Sistem ekonomi sirkular yang bisa diterapkan di lingkungan RW Desa Buahdua.",
+      "konten": "Menjelaskan alur penabungan sampah anorganik yang bisa menjadi uang tambahan bagi warga.",
+      "tipe_media": "artikel_luar",
+      "sumber": {
+        "nama": "DLH Buleleng",
+        "url": "https://dlh.bulelengkab.go.id/informasi/detail/artikel/apa-itu-bank-sampah-dan-apa-manfaatnya-59"
+      }
+    }
+  ]
+}

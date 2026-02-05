@@ -45,13 +45,12 @@ export default function Navbar() {
 
           {/* LOGO */}
           <Link to="/" className="flex items-center gap-2">
-            <img src="/logo-desa.png" alt="Desa Buahdua" className="h-8 w-8" />
             <span className="font-semibold text-blue-600 text-lg">
               Desa Buahdua
             </span>
           </Link>
 
-          {/* MENU */}
+          {/* MENU DESKTOP */}
           <nav className="hidden md:flex items-center gap-8">
 
             <NavLink
@@ -64,7 +63,7 @@ export default function Navbar() {
               Beranda
             </NavLink>
 
-           {/* PEMERINTAHAN DESA */}
+            {/* PROFIL DESA */}
             <div
               className="relative"
               onMouseEnter={() => openMenu("pemerintahan")}
@@ -82,9 +81,8 @@ export default function Navbar() {
                 >
                   <Link to="/pemerintahan-desa/perkenalan" className={itemClass}>Mengenal Desa Buahdua</Link>
                   <Link to="/pemerintahan-desa/visi-misi" className={itemClass}>Visi & Misi</Link>
-                   <Link to="/pemerintahan-desa/sejarah" className={itemClass}>Sejarah Desa Buahdua</Link>
-                   <Link to="/pemerintahan-desa/perangkat" className={itemClass}>Perangkat Desa</Link>
-                  <Link to="/pemerintahan-desa/struktur" className={itemClass}>Struktur Organisasi</Link>
+                  <Link to="/pemerintahan-desa/sejarah" className={itemClass}>Sejarah Desa Buahdua</Link>
+                  <Link to="/pemerintahan-desa/perangkat" className={itemClass}>Struktur Pemerintahan</Link>
                 </div>
               )}
             </div>
@@ -116,34 +114,21 @@ export default function Navbar() {
                 >
                   <Link to="/potensi-desa/umkm" className={itemClass}>UMKM</Link>
                   <Link to="/potensi-desa/budaya" className={itemClass}>Budaya</Link>
-                  <Link to="/potensi-desa/wisata" className={itemClass}>Wisata</Link>
+                  <Link to="/potensi-desa/peternakan" className={itemClass}>Peternakan</Link>
                   <Link to="/potensi-desa/pertanian" className={itemClass}>Pertanian</Link>
                 </div>
               )}
             </div>
 
-            {/* LEMBAGA DESA */}
-            <div
-              className="relative"
-              onMouseEnter={() => openMenu("lembaga")}
-              onMouseLeave={closeMenu}
+            {/* ✅ LEMBAGA DESA TANPA DROPDOWN */}
+            <NavLink
+              to="/lembaga-desa"
+              className={({ isActive }) =>
+                `${baseLink} ${isActive ? activeLink : inactiveLink}`
+              }
             >
-              <button className={`${baseLink} ${inactiveLink} flex items-center gap-1`}>
-                Lembaga Desa <span className="text-xs">▾</span>
-              </button>
-
-              {openDropdown === "lembaga" && (
-                <div
-                  className={dropdownClass}
-                  onMouseEnter={() => openMenu("lembaga")}
-                  onMouseLeave={closeMenu}
-                >
-                  <Link to="/lembaga-desa/pkk" className={itemClass}>PKK</Link>
-                  <Link to="/lembaga-desa/karang-taruna" className={itemClass}>Karang Taruna</Link>
-                  <Link to="/lembaga-desa/lpm" className={itemClass}>LPM</Link>
-                </div>
-              )}
-            </div>
+              Lembaga Desa
+            </NavLink>
 
           </nav>
 
@@ -164,6 +149,7 @@ export default function Navbar() {
         {mobileMenuOpen && (
           <div className="md:hidden bg-white shadow-lg border-t">
             <nav className="px-6 py-4 space-y-4">
+
               <NavLink
                 to="/"
                 end
@@ -175,7 +161,7 @@ export default function Navbar() {
                 Beranda
               </NavLink>
 
-              {/* PROFIL DESA MOBILE DROPDOWN */}
+              {/* PROFIL DESA MOBILE */}
               <div>
                 <button
                   className="flex items-center justify-between w-full py-2 font-medium text-gray-600 hover:text-blue-600"
@@ -186,13 +172,13 @@ export default function Navbar() {
                     ▾
                   </span>
                 </button>
+
                 {openMobileDropdown === "profil" && (
                   <div className="ml-4 mt-2 space-y-2">
                     <Link to="/pemerintahan-desa/perkenalan" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Mengenal Desa Buahdua</Link>
                     <Link to="/pemerintahan-desa/visi-misi" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Visi & Misi</Link>
                     <Link to="/pemerintahan-desa/sejarah" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Sejarah Desa Buahdua</Link>
-                    <Link to="/pemerintahan-desa/perangkat" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Perangkat Desa</Link>
-                    <Link to="/pemerintahan-desa/struktur" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Struktur Organisasi</Link>
+                    <Link to="/pemerintahan-desa/perangkat" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Struktur Pemerintahan</Link>
                   </div>
                 )}
               </div>
@@ -207,7 +193,7 @@ export default function Navbar() {
                 Layanan Desa
               </NavLink>
 
-              {/* POTENSI DESA MOBILE DROPDOWN */}
+              {/* POTENSI DESA MOBILE */}
               <div>
                 <button
                   className="flex items-center justify-between w-full py-2 font-medium text-gray-600 hover:text-blue-600"
@@ -218,35 +204,28 @@ export default function Navbar() {
                     ▾
                   </span>
                 </button>
+
                 {openMobileDropdown === "potensi" && (
                   <div className="ml-4 mt-2 space-y-2">
                     <Link to="/potensi-desa/umkm" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>UMKM</Link>
                     <Link to="/potensi-desa/budaya" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Budaya</Link>
-                    <Link to="/potensi-desa/wisata" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Wisata</Link>
+                    <Link to="/potensi-desa/peternakan" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Peternakan</Link>
                     <Link to="/potensi-desa/pertanian" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Pertanian</Link>
                   </div>
                 )}
               </div>
 
-              {/* LEMBAGA DESA MOBILE DROPDOWN */}
-              <div>
-                <button
-                  className="flex items-center justify-between w-full py-2 font-medium text-gray-600 hover:text-blue-600"
-                  onClick={() => toggleMobileDropdown("lembaga")}
-                >
-                  Lembaga Desa
-                  <span className={`transform transition-transform ${openMobileDropdown === "lembaga" ? "rotate-180" : ""}`}>
-                    ▾
-                  </span>
-                </button>
-                {openMobileDropdown === "lembaga" && (
-                  <div className="ml-4 mt-2 space-y-2">
-                    <Link to="/lembaga-desa/pkk" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>PKK</Link>
-                    <Link to="/lembaga-desa/karang-taruna" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>Karang Taruna</Link>
-                    <Link to="/lembaga-desa/lpm" className="block py-1 text-sm text-gray-600 hover:text-blue-600" onClick={closeMobileMenu}>LPM</Link>
-                  </div>
-                )}
-              </div>
+              
+              <NavLink
+                to="/lembaga-desa"
+                className={({ isActive }) =>
+                  `block py-2 font-medium ${isActive ? 'text-blue-600' : 'text-gray-600 hover:text-blue-600'}`
+                }
+                onClick={closeMobileMenu}
+              >
+                Lembaga Desa
+              </NavLink>
+
             </nav>
           </div>
         )}

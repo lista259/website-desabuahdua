@@ -1,193 +1,777 @@
 [
   {
     "id": 1,
-    "name": "Seblak Nangerang",
-    "price": "Rp. 1.000/toping–10.000",
-    "location": "Jl. Anggrek No. 15, Sumedang",
-    "image": "/src/assets/umkm/seblak-nangerang.webp",
-    "category": "makanan",
-
-    "description": "Seblak khas dengan cita rasa pedas gurih dan pilihan topping beragam.",
-    "menu": [
-      { "name": "Seblak Original", "price": "Rp. 10.000" },
-      { "name": "Seblak Ceker", "price": "Rp. 15.000" }
-    ],
-    "gallery": [
-      "/src/assets/umkm/seblak-1.webp",
-      "/src/assets/umkm/seblak-2.webp"
-    ],
-    "contact": "0812-3456-7890"
+    "name": "Deva Konveksi",
+    "owner": "Bapak Mamat",
+    "location": "Darongdong RT 02 RW 08, Buahdua",
+    "year_established": "1998/2000",
+    "price": "Hubungi Kontak",
+    "image": "/foto umkm desa buahdua/1. Deva Konveksi/Suasana Konveksi Deva Konveksi.webp",
+    "category": "jasa",
+    "business_type": "Pribadi",
+    "production_type": "Konveksi/Kaos",
+    "employees": 2,
+    "description": "Deva Konveksi merupakan usaha milik Bapak Mamat yang bergerak di bidang pembuatan pakaian seperti baju olahraga dan seragam. Produksi dikelola oleh keluarga dengan penambahan karyawan saat pesanan meningkat. Bahan baku diperoleh dari Pasar Baru Bandung, sedangkan pemasaran dilakukan melalui WhatsApp dan promosi dari mulut ke mulut.",
+    "menu": [],
+    "reviews": ["Kualitas produk baik, jahitan rapi.", "Hasil sablon tahan lama."],
+    "contact": "082369304293"
   },
   {
     "id": 2,
-    "name": "Es Kopi Gula Aren",
-    "price": "Rp. 8.000–15.000",
-    "location": "Jl. Prabu Gajah Agung No. 22, Sumedang",
-    "image": "/src/assets/umkm/es-kopi.webp",
-    "category": "minuman",
-
-    "description": "Minuman kopi susu segar dengan gula aren asli.",
+    "name": "Pandai Besi",
+    "owner": "Bapak Sanija",
+    "location": "Darongdong RT 02 RW 08, Buahdua",
+    "year_established": "1993",
+    "price": "Rp 50.000 - 175.000",
+    "image": "/foto umkm desa buahdua/2. Pandai Besi/Berbagai Jenis Pisau.webp",
+    "category": "jasa",
+    "business_type": "Pribadi",
+    "production_type": "Pandai Besi",
+    "employees": 1,
+    "description": "UMKM Pandai Besi berdiri sejak 1993, dikelola langsung oleh pemilik. Bahan baku besi dari Cirebon, ditempa secara manual untuk menghasilkan perkakas berkualitas tinggi.",
     "menu": [
-      { "name": "Es Kopi Susu", "price": "Rp. 10.000" },
-      { "name": "Es Kopi Aren", "price": "Rp. 15.000" }
+      {
+        "name": "Pisau",
+        "price": "Rp 50.000",
+        "image": "/foto umkm desa buahdua/2. Pandai Besi/Pisau.webp"
+      },
+      {
+        "name": "Pisau Sedang",
+        "price": "Rp 65.000",
+        "image": "/foto umkm desa buahdua/2. Pandai Besi/Pisau Sedang.webp"
+      },
+      {
+        "name": "Pisau Besar",
+        "price": "Rp 75.000",
+        "image": "/foto umkm desa buahdua/2. Pandai Besi/Pisau Besar.webp"
+      },
+      {
+        "name": "Golok",
+        "price": "Rp 175.000",
+        "image": "/foto umkm desa buahdua/2. Pandai Besi/Golok.webp"
+      },
+      {
+        "name": "Congkrang",
+        "price": "Rp 120.000",
+        "image": "/foto umkm desa buahdua/2. Pandai Besi/Congkrang.webp"
+      },
+      {
+        "name": "Parang Arit",
+        "price": "Rp 85.000",
+        "image": "/foto umkm desa buahdua/2. Pandai Besi/Parang Arit & Congkrang.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0821-1111-2222"
+    "reviews": [
+      "Kuat, tajam, dan tahan lama."
+    ],
+    "contact": "082115478414"
   },
   {
     "id": 3,
-    "name": "Bakso Mang Endang",
-    "price": "Rp. 10.000–20.000",
-    "location": "Jl. Kutamaya No. 10, Sumedang",
-    "image": "/src/assets/umkm/bakso-mang-endang.webp",
-    "category": "makanan",
-
-    "description": "Bakso daging sapi dengan kuah gurih dan isian lengkap.",
+    "name": "Penjahit Sagita",
+    "owner": "Bapak Erus",
+    "location": "Dsn. Buahdua RT 03 RW 04",
+    "year_established": "2000",
+    "price": "Rp 60.000 - 70.000",
+    "image": "/foto umkm desa buahdua/3. Sagita/Suasana Ibu Sagita.webp",
+    "category": "jasa",
+    "business_type": "Pribadi",
+    "production_type": "Penjahit",
+    "employees": 1,
+    "description": "Layanan pembuatan dan perbaikan pakaian dengan hasil rapi dan presisi. Spesialis dalam pembuatan berbagai macam busana seperti gamis dan pakaian harian lainnya.",
     "menu": [
-      { "name": "Bakso Biasa", "price": "Rp. 10.000" },
-      { "name": "Bakso Jumbo", "price": "Rp. 20.000" }
+      {
+        "name": "Gamis Hitam",
+        "price": "Rp 70.000",
+        "image": "/foto umkm desa buahdua/3. Sagita/Gamis Hitam Sagita.webp"
+      },
+      {
+        "name": "Gamis Cokelat",
+        "price": "Rp 70.000",
+        "image": "/foto umkm desa buahdua/3. Sagita/Gamis Sagita.webp"
+      },
+      {
+        "name": "Gamis Burgundy",
+        "price": "Rp 70.000",
+        "image": "/foto umkm desa buahdua/3. Sagita/Gamis Burgundy Sagita.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0857-8888-9999"
+    "reviews": [
+      "Jahitan rapi dan presisi.",
+      "Sangat puas dengan hasil gamisnya."
+    ],
+    "contact": "082318384232"
   },
   {
     "id": 4,
-    "name": "Laundry Bersih Wangi",
-    "price": "Rp. 5.000/kg",
-    "location": "Jl. Pahlawan No. 5, Sumedang",
-    "image": "/src/assets/umkm/laundry.webp",
-    "category": "jasa",
-
-    "description": "Layanan laundry cepat, bersih, dan wangi.",
-    "services": [
-      { "name": "Cuci Kering", "price": "Rp. 5.000/kg" },
-      { "name": "Cuci Setrika", "price": "Rp. 7.000/kg" }
+    "name": "Opak Rika",
+    "owner": "Ibu Rika Gestiana",
+    "location": "Dsn. Buahdua RT 03 RW 04",
+    "year_established": "2005",
+    "price": "Rp 17.000",
+    "image": "/foto umkm desa buahdua/4. Opak Rika/Opak.webp",
+    "category": "makanan",
+    "business_type": "Pribadi",
+    "production_type": "Makanan (Opak)",
+    "employees": "8-10",
+    "description": "Memproduksi opak ketan berkualitas dengan kapasitas 40kg/hari. Pemasaran via Tokopedia 'Opak Rika'.",
+    "certificates": ["NIB", "Halal", "PIRT"],
+    "menu": [
+      { 
+        "name": "Opak Ketan", 
+        "price": "Rp 17.000",
+        "image": "/foto umkm desa buahdua/4. Opak Rika/Opak.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0813-2222-3333"
+    "reviews": [
+      "Renyah dan gurih.", 
+      "Kemasan rapi."
+    ],
+    "contact": "081321662017"
   },
   {
     "id": 5,
-    "name": "Cilok Goang Asep",
-    "price": "Rp. 1.000–5.000",
-    "location": "Jl. Karanganyar No. 8, Sumedang",
-    "image": "/src/assets/umkm/cilok-goang.webp",
+    "name": "Gusfa Yudistira",
+    "owner": "Ibu Neli Nurhasanah",
+    "location": "Ciranten RT 05 RW 10",
+    "year_established": "2015",
+    "price": "Rp 1.750 - 13.000",
+    "image": "/foto umkm desa buahdua/5. Gusfa Yudistira/Wingko.webp",
     "category": "makanan",
-
-    "description": "Cilok kenyal dengan bumbu kacang dan sambal goang.",
+    "business_type": "Pribadi",
+    "production_type": "Makanan (Kering & Basah)",
+    "employees": 1,
+    "description": "Memproduksi sale pisang, kue basah, wingko, dan ladu karamel. Produk berkualitas yang sudah dipasarkan hingga ke wilayah Banten.",
+    "certificates": ["NIB", "Halal", "PIRT"],
     "menu": [
-      { "name": "Cilok Original", "price": "Rp. 1.000/butir" },
-      { "name": "Cilok Isi", "price": "Rp. 2.000/butir" }
+      { 
+        "name": "Wingko", 
+        "price": "Rp 13.000",
+        "image": "/foto umkm desa buahdua/5. Gusfa Yudistira/Wingko.webp"
+      },
+      { 
+        "name": "Wingko Kotak", 
+        "price": "Rp 13.000",
+        "image": "/foto umkm desa buahdua/5. Gusfa Yudistira/Wingko Kotak.webp"
+      },
+      { 
+        "name": "Wingko Bulat", 
+        "price": "Rp 13.000",
+        "image": "/foto umkm desa buahdua/5. Gusfa Yudistira/Wingko Bulat.webp"
+      },
+      { 
+        "name": "Sale Pisang", 
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/5. Gusfa Yudistira/Sale.webp"
+      },
+      { 
+        "name": "Ladu Caramel", 
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/5. Gusfa Yudistira/Ladu Caramel.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0822-3333-4444"
+    "reviews": [
+      "Rasa konsisten.", 
+      "Kemasan menarik."
+    ],
+    "contact": "085222256567"
   },
   {
     "id": 6,
-    "name": "Percetakan Cepat Jaya",
-    "price": "Mulai Rp. 50.000",
-    "location": "Jl. Talun No. 11, Sumedang",
-    "image": "/src/assets/umkm/percetakan.webp",
-    "category": "jasa",
-
-    "description": "Melayani percetakan banner, brosur, dan undangan.",
-    "services": [
-      { "name": "Cetak Banner", "price": "Mulai Rp. 50.000" },
-      { "name": "Cetak Brosur", "price": "Mulai Rp. 100.000" }
+    "name": "Mila Jelly",
+    "owner": "Ibu Mila",
+    "location": "Ciranten RT 04 RW 10",
+    "year_established": "2025",
+    "price": "Rp 10.000",
+    "image": "/foto umkm desa buahdua/6. Mila Jelly/Suasana Mila Jelly.webp",
+    "category": "minuman",
+    "business_type": "Pribadi",
+    "production_type": "Minuman(Dessert)",
+    "employees": 1,
+    "description": "Dessert jelly kelapa muda asli yang disajikan langsung di dalam batok kelapa, dibuat tanpa bahan pengawet. Produksi mencapai 150 cup/porsi per hari.",
+    "menu": [
+      { 
+        "name": "Jelly Kelapa Muda", 
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/6. Mila Jelly/mila jelly.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0819-5555-6666"
+    "reviews": [
+      "Rasa seimbang, tidak terlalu manis.", 
+      "Harga ramah di kantong."
+    ],
+    "contact": "081316393031"
   },
   {
     "id": 7,
-    "name": "Tahu Sumedang Maknyus",
-    "price": "Rp. 2.000–10.000",
-    "location": "Jl. Mayor Abdurahman No. 3, Sumedang",
-    "image": "/src/assets/umkm/tahu-sumedang.webp",
+    "name": "Motekar Rasa",
+    "owner": "Ibu Yayan Nurhayani",
+    "location": "Bengang RT 02 RW 07",
+    "year_established": "2008",
+    "price": "Rp 10.000 - 60.000",
+    "image": "/foto umkm desa buahdua/7. Motekar Rasa/Tampak Depan .webp",
     "category": "makanan",
-
-    "description": "Tahu Sumedang goreng hangat dan renyah.",
+    "business_type": "Pribadi",
+    "production_type": "Makanan Ringan",
+    "employees": 1,
+    "description": "Spesialis sale pisang ambon, rengginang, dan keripik pisang rumahan yang diolah secara higienis untuk menjaga cita rasa tradisional yang manis dan gurih.",
     "menu": [
-      { "name": "Tahu Goreng", "price": "Rp. 2.000/biji" }
+      {
+        "name": "Keripik Pisang",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/7. Motekar Rasa/Keripik Pisang.webp"
+      },
+      {
+        "name": "Rengginang",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/7. Motekar Rasa/Rengginang.webp"
+      },
+      {
+        "name": "Sale Pisang Ambon",
+        "price": "Rp 60.000",
+        "image": "/foto umkm desa buahdua/7. Motekar Rasa/Sale Pisang Ambon.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0856-7777-8888"
+    "reviews": [
+      "Manis alami pisang ambon.",
+      "Rengginang gurih."
+    ],
+    "contact": "085846818870"
   },
   {
     "id": 8,
-    "name": "Es Duren Segar",
-    "price": "Rp. 12.000–20.000",
-    "location": "Jl. Darmaraja No. 7, Sumedang",
-    "image": "/src/assets/umkm/es-duren.webp",
-    "category": "minuman",
-
-    "description": "Minuman es durian segar dengan daging durian asli.",
+    "name": "Keripik Pisang Pak Yaya",
+    "owner": "Bapak Yaya",
+    "location": "Ciranten RT 01 RW 10",
+    "year_established": "2005",
+    "price": "Rp 5.000 - 12.500",
+    "image": "/foto umkm desa buahdua/8. Keripik Pisang Pa Yaya/Galendo.webp",
+    "category": "makanan",
+    "business_type": "Pribadi",
+    "production_type": "Makanan",
+    "employees": 1,
+    "description": "Memiliki kios di Conggeang. Memproduksi dan menjual galendo khas, minyak kelapa murni, dan keripik pisang renyah.",
+    "certificates": ["NIB"],
     "menu": [
-      { "name": "Es Duren Cup", "price": "Rp. 12.000" },
-      { "name": "Es Duren Jumbo", "price": "Rp. 20.000" }
+      { 
+        "name": "Galendo", 
+        "price": "Rp 5.000",
+        "image": "/foto umkm desa buahdua/8. Keripik Pisang Pa Yaya/Galendo.webp"
+      },
+      { 
+        "name": "Minyak Kelapa", 
+        "price": "Hubungi Kontak",
+        "image": "/foto umkm desa buahdua/8. Keripik Pisang Pa Yaya/Minyak Kelapa.webp"
+      },
+      { 
+        "name": "Keripik Pisang 1/4", 
+        "price": "Rp 12.500",
+        "image": "/foto umkm desa buahdua/8. Keripik Pisang Pa Yaya/Galendo.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0812-9999-0000"
+    "reviews": [
+      "Camilan harian yang enak.", 
+      "Galendo manis legit."
+    ],
+    "contact": "085346996027"
   },
   {
     "id": 9,
-    "name": "Jasa Potong Rambut Kang Asep",
-    "price": "Rp. 15.000–25.000",
-    "location": "Jl. Tegal Kalong No. 2, Sumedang",
-    "image": "/src/assets/umkm/barbershop.webp",
-    "category": "jasa",
-
-    "description": "Jasa potong rambut pria dengan gaya modern dan rapi.",
-    "services": [
-      { "name": "Potong Rambut", "price": "Rp. 15.000" },
-      { "name": "Cukur & Styling", "price": "Rp. 25.000" }
+    "name": "Opak Juju",
+    "owner": "Ibu Juju",
+    "location": "Bengang RT 01 RW 07",
+    "year_established": "1995",
+    "price": "Rp 10.000 - 40.000",
+    "image": "/foto umkm desa buahdua/9. Makanan Opak/FOTO SEMUA.webp",
+    "category": "makanan",
+    "business_type": "Pribadi",
+    "production_type": "Makanan Tradisional",
+    "employees": 3,
+    "description": "Memproduksi camilan tradisional seperti opak, lenring, dan rengginang dengan kapasitas produksi mencapai 8kg per sesi untuk menjaga kualitas dan rasa yang autentik.",
+    "certificates": ["NIB", "Halal"],
+    "menu": [
+      {
+        "name": "Opak Ibu Juju",
+        "price": "Rp 40.000 (100 Pcs)",
+        "image": "/foto umkm desa buahdua/9. Makanan Opak/Opak Ibu Juju.webp"
+      },
+      {
+        "name": "Lenring Ibu Juju",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/9. Makanan Opak/Lenring Ibu Juju.webp"
+      },
+      {
+        "name": "Rengginang Ibu Juju",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/9. Makanan Opak/Rengginang Ibu Juju.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0838-4444-5555"
+    "reviews": [
+      "Terasa ringan saat dikunyah.",
+      "Aroma tradisional terjaga."
+    ],
+    "contact": "081320609747"
   },
   {
     "id": 10,
-    "name": "Nasi Tutug Oncom Bu Euis",
-    "price": "Rp. 10.000–18.000",
-    "location": "Jl. Simpang No. 9, Sumedang",
-    "image": "/src/assets/umkm/nasi-tutug.webp",
+    "name": "Opak Titi Wina",
+    "owner": "Ibu Titi Wina Karwati",
+    "location": "Cilogang RT 04 RW 09",
+    "year_established": "2015",
+    "price": "Rp 10.000",
+    "image": "/foto umkm desa buahdua/10. Makanan Opak/Opak Ibu Titi.webp",
     "category": "makanan",
-
-    "description": "Nasi tutug oncom khas Sunda dengan lauk tradisional.",
+    "business_type": "Pribadi",
+    "production_type": "Makanan (Opak)",
+    "employees": 1,
+    "description": "Memproduksi opak dan rengginang berkualitas. Pemasaran produk sudah menjangkau wilayah Sumedang hingga Bandung.",
+    "certificates": ["NIB", "Halal"],
     "menu": [
-      { "name": "Tutug Oncom Ayam", "price": "Rp. 15.000" }
+      { 
+        "name": "Opak Gurih", 
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/10. Makanan Opak/Opak Ibu Titi.webp"
+      }
     ],
-    "gallery": [],
-    "contact": "0815-6666-7777"
+    "reviews": [
+      "Bentuk rapi, matang pas.", 
+      "Gurih untuk camilan."
+    ],
+    "contact": "08131398582"
   },
   {
     "id": 11,
-    "name": "Minuman Thai Tea Cinta Rasa",
-    "price": "Rp. 8.000–12.000",
-    "location": "Jl. Cipacing No. 4, Sumedang",
-    "image": "/src/assets/umkm/thai-tea.webp",
-    "category": "minuman",
-
-    "description": "Thai tea manis dan creamy dengan berbagai varian.",
+    "name": "Roro Pastry Cookies",
+    "owner": "Ibu Risda",
+    "location": "Cilogang RT 04 RW 09",
+    "year_established": "2017",
+    "price": "Rp 1.500 - 2.000",
+    "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Pie Buah.webp",
+    "category": "makanan",
+    "business_type": "Pribadi",
+    "production_type": "Kue Basah & Kering",
+    "employees": 1,
+    "description": "Spesialis pembuatan snack box untuk berbagai acara seperti rapat, hajatan, dan syukuran. Menggunakan sistem pemesanan Pre-Order (PO) untuk menjamin kesegaran produk.",
     "menu": [
-      { "name": "Thai Tea Original", "price": "Rp. 8.000" }
+      { 
+        "name": "Bolu Kukus", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Bolu Kukus.webp" 
+      },
+      { 
+        "name": "Bolu Pelangi", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Bolu Pelangi.webp" 
+      },
+      { 
+        "name": "Jamstar", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Jamstar.webp" 
+      },
+      { 
+        "name": "Kue Cokelat", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue Coklat.webp" 
+      },
+      { 
+        "name": "Kue Kacang", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue-kacang.webp" 
+      },
+      { 
+        "name": "Kue Keju", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue-Keju.webp" 
+      },
+      { 
+        "name": "Kue Salju", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue-salju.webp" 
+      },
+      { 
+        "name": "Kue Semangka", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue-Semangka.webp" 
+      },
+      { 
+        "name": "Kue Ulat", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue-Ulat.webp" 
+      },
+      { 
+        "name": "Kue Keju", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Kue-Keju.webp" 
+      },
+      { 
+        "name": "Lapis Hijau", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Lapis-Hijau.webp" 
+      },
+      { 
+        "name": "Lapis", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Lapis.webp" 
+      },
+      { 
+        "name": "Lemper", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Lemper.webp" 
+      },
+      { 
+        "name": "Makanan Basah", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Makanan Basah.webp" 
+      },
+      { 
+        "name": "Nastar", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Nastar.webp" 
+      },
+      { 
+        "name": "Risol", 
+        "price": "Rp 2.000/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Risol.webp" 
+      },
+      { 
+        "name": "Kue Putu", 
+        "price": "Rp 1.500/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Putu Ayu Ros.webp" 
+      },
+      { 
+        "name": "Talam Abon", 
+        "price": "Rp 1.500/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Talam-Abon.webp" 
+      },
+      { 
+        "name": "Dadar Gulung Pelangi", 
+        "price": "Rp 1.500/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Dadar Gulung Pelangi.webp" 
+      },
+      { 
+        "name": "Dadar Gulung Cokelat", 
+        "price": "Rp 1.500/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Dadar Gulung Coklat.webp" 
+      },
+      { 
+        "name": "Dadar Gulung Pink", 
+        "price": "Rp 1.500/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Dadar Gulung Pink.webp" 
+      },
+      { 
+        "name": "Pie Buah", 
+        "price": "Rp 2.000/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Pie Buah.webp" 
+      },
+      { 
+        "name": "Pizza Cookies", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Pizza Cookies.webp" 
+      },
+      { 
+        "name": "Puding Jagung", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Puding Jagung.webp" 
+      },
+      { 
+        "name": "Putu Ayu Ros", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Putu Ayu Ros.webp" 
+      },
+      { 
+        "name": "Putu Ayu", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Putu Ayu.webp" 
+      },
+      { 
+        "name": "Sagu Keju", 
+        "price": "Kontak untuk Harga",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Sagu-Keju.webp" 
+      },
+      { 
+        "name": "Talam Ambon", 
+        "price": "Rp 1.500/Pcs",
+        "image": "/foto umkm desa buahdua/11. Roro Pastry Cookies/Talam-Abon.webp" 
+      }
     ],
-    "gallery": [],
-    "contact": "0823-1111-9999"
+    "reviews": [
+      "Rasa konsisten enak.", 
+      "Bentuk bervariasi menarik."
+    ],
+    "contact": "082119270079"
   },
   {
     "id": 12,
-    "name": "Laundry Kilat Express",
-    "price": "Rp. 6.000/kg",
-    "location": "Jl. Parakanmuncang No. 6, Sumedang",
-    "image": "/src/assets/umkm/laundry-express.webp",
-    "category": "jasa",
-
-    "description": "Laundry kilat selesai dalam 1 hari.",
-    "services": [
-      { "name": "Laundry Express", "price": "Rp. 6.000/kg" }
+    "name": "Makanan Ibu Ener",
+    "owner": "Ibu Ener",
+    "location": "Cilogang RT 03 RW 09",
+    "year_established": "2015",
+    "price": "Rp 10.000",
+    "image": "/foto umkm desa buahdua/12. Makanan Ibu Ener/Ibu Ener.webp",
+    "category": "makanan",
+    "business_type": "Pribadi",
+    "production_type": "Keripik & Rengginang",
+    "employees": 1,
+    "description": "Memproduksi berbagai macam keripik dan rengginang berkualitas. Bahan baku yang digunakan sangat selektif, yaitu khusus pisang kapak dan nangka untuk menjaga tekstur serta kualitas rasa yang optimal.",
+    "menu": [
+      { 
+        "name": "Keripik Pisang", 
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/12. Makanan Ibu Ener/Ibu Ener.webp" 
+      }
     ],
-    "gallery": [],
-    "contact": "0817-3333-2222"
+    "reviews": ["Kerenyahan tahan lama.", "Manis alami."],
+    "contact": "085659662060"
+  },
+  {
+  "id": 13,
+  "name": "Mustika Rasa",
+  "owner": "Ibu Apong Purwasih",
+  "location": "Cilogang RT 03 RW 09",
+  "year_established": "2018",
+  "price": "Rp 10.000 - 35.000",
+  "image": "/foto umkm desa buahdua/13. Mustika Rasa/Suasana Ibu Apong.webp",
+  "category": "makanan",
+  "business_type": "Pribadi",
+  "production_type": "Opak & Sale",
+  "employees": 5,
+  "description": "Memproduksi camilan tradisional seperti sale pisang ambon dan opak mini yang telah berhasil masuk ke pusat oleh-oleh serta rest area. Memiliki keunikan pada produk Opak Mini yang praktis dinikmati.",
+  "menu": [
+    { 
+      "name": "Sale Bu Apong", 
+      "price": "Rp 35.000",
+      "image": "/foto umkm desa buahdua/13. Mustika Rasa/Sale Bu Apong.webp"
+    },
+    { 
+      "name": "Opak Bu Apong", 
+      "price": "Rp 15.000",
+      "image": "/foto umkm desa buahdua/13. Mustika Rasa/Opak Bu Apong .webp"
+    },
+    { 
+      "name": "Opak Manis", 
+      "price": "Rp 10.000",
+      "image": "/foto umkm desa buahdua/13. Mustika Rasa/Opak Manis.webp"
+    }
+  ],
+  "reviews": [
+    "Rasa khas dan enak.", 
+    "Opak mininya unik."
+  ],
+  "contact": "082318256033"
+  },
+  {
+  "id": 14,
+  "name": "Sale Pisang Sewon",
+  "owner": "Ibu Isar",
+  "location": "Cilogang RT 01 RW 10",
+  "year_established": "1980",
+  "price": "Hubungi Kontak",
+  "image": "/foto umkm desa buahdua/14. Makanan Sale Pisang Sewon/Sale Pisang Sewon.webp",
+  "category": "makanan",
+  "business_type": "Pribadi",
+  "production_type": "Sale Pisang",
+  "employees": 1,
+  "description": "Produksi sale pisang legendaris sejak 1980 dengan kapasitas mencapai 50kg per hari, mempertahankan cita rasa manis alami pisang matang.",
+  "certificates": ["NIB", "PIRT", "Halal"],
+  "menu": [
+    { 
+      "name": "Sale Pisang Sewon", 
+      "price": "Kontak untuk Harga",
+      "image": "/foto umkm desa buahdua/14. Makanan Sale Pisang Sewon/Sale Pisang Sewon.webp"
+    }
+  ],
+  "reviews": [
+    "Manis alami pisang matang.", 
+    "Tekstur lembut."
+  ],
+  "contact": "085225287279"
+  },
+  {
+    "id": 15,
+    "name": "Penjahit",
+    "owner": "Informasi Perangkat Desa",
+    "location": "Desa Buahdua",
+    "year_established": "Informasi Perangkat Desa",
+    "price": "Rp 10.000 - 150.000",
+    "image": "/foto umkm desa buahdua/15. Penjahit/Gamis Bunga.webp",
+    "category": "jasa",
+    "business_type": "Pribadi",
+    "production_type": "Jasa Jahit & Permak",
+    "employees": 1,
+    "description": "Layanan jasa jahit profesional spesialis pakaian wanita, mulai dari pembuatan gamis motif, stelan, hingga jasa permak pakaian dengan harga terjangkau.",
+    "menu": [
+      { 
+        "name": "Gamis Polos", 
+        "price": "Rp 80.000",
+        "image": "/foto umkm desa buahdua/15. Penjahit/Gamis Renda.webp" 
+      },
+      { 
+        "name": "Gamis Renda", 
+        "price": "Rp 100.000",
+        "image": "/foto umkm desa buahdua/15. Penjahit/Gamis Renda.webp" 
+      },
+      { 
+        "name": "Gamis Motif (Bunga)", 
+        "price": "Rp 100.000",
+        "image": "/foto umkm desa buahdua/15. Penjahit/Gamis Bunga.webp" 
+      },
+      { 
+        "name": "Stelan", 
+        "price": "Rp 150.000",
+        "image": "/foto umkm desa buahdua/15. Penjahit/Gamis Bunga.webp" 
+      },
+      { 
+        "name": "Permak Pakaian", 
+        "price": "Rp 10.000 - Rp 20.000",
+        "image": "/foto umkm desa buahdua/15. Penjahit/Gamis Renda.webp" 
+      }
+    ],
+    "reviews": [
+      "Jahitan gamisnya rapi dan pas di badan.", 
+      "Harga permaknya sangat murah tapi pengerjaannya cepat."
+    ],
+    "contact": "Hubungi Melalui Perangkat Desa"
+  },
+  {
+      "id": 16,
+      "name": "Konveksi Rajut Mamat",
+      "owner": "Bapak Mamat",
+      "location": "Buahdua RT 01 RW 04",
+      "year_established": "2011",
+      "price": "Rp 40.000 - 60.000 /pcs",
+      "image": "/foto umkm desa buahdua/16. Penjahit/Suasana Ruang Jahit Pa Mamat.webp",
+      "category": "jasa",
+      "business_type": "Pribadi",
+      "production_type": "Perajut Pakaian",
+      "employees": 7,
+      "description": "Bapak Mamat telah berpengalaman di bidang konveksi sejak tahun 1978. Saat ini mengelola konveksi rajut dengan jangkauan pengiriman produk hingga ke Pasar Tanah Abang, Jakarta.",
+      "menu": [
+        { 
+          "name": "Rajut Kalong Motif", 
+          "price": "Rp 700.000/Lusin",
+          "image": "/foto umkm desa buahdua/16. Penjahit/Rajut Kalong Motif.webp" 
+        },
+        { 
+          "name": "Rajut Garis Merah", 
+          "price": "Rp 480.000/Lusin",
+          "image": "/foto umkm desa buahdua/16. Penjahit/Rajut Garis Merah.webp" 
+        },
+        { 
+          "name": "Rajut Burgundy", 
+          "price": "Rp 480.000/Lusin",
+          "image": "/foto umkm desa buahdua/16. Penjahit/Rajut Burgundy.webp" 
+        },
+        { 
+          "name": "Rajut Coklat Kancing", 
+          "price": "Rp 700.000/Lusin",
+          "image": "/foto umkm desa buahdua/16. Penjahit/Rajut Coklat Kancing .webp" 
+        },
+        { 
+          "name": "Rajut Garis Hitam", 
+          "price": "Rp 480.000/Lusin",
+          "image": "/foto umkm desa buahdua/16. Penjahit/Rajut Garis Hitam .webp" 
+        },
+        { 
+          "name": "Garis Belang Hitam Putih", 
+          "price": "Rp 480.000/Lusin",
+          "image": "/foto umkm desa buahdua/16. Penjahit/Garis Belang HItam Putih.webp" 
+        }
+      ],
+      "reviews": ["Ketelitian tinggi.", "Hasil halus dan nyaman."],
+      "contact": "085320426480"
+  },
+  {
+    "id": 17,
+    "name": "Penjahit Lia",
+    "owner": "Ibu Lia",
+    "location": "Buahdua RT 02 RW 03",
+    "year_established": "2001",
+    "price": "Rp 75.000 - 140.000",
+    "image": "/foto umkm desa buahdua/17. Penjahit/Suasana Ruang Jahit Ibu Lia.webp",
+    "category": "jasa",
+    "business_type": "Pribadi",
+    "production_type": "Jasa Permak & Gamis",
+    "employees": 1,
+    "description": "Melayani pesanan hingga 4 pasang per hari menggunakan mesin manual dan modern untuk menghasilkan jahitan yang rapi dan berkualitas.",
+    "menu": [
+      { 
+        "name": "Batik Ibu Lia", 
+        "price": "Rp 140.000",
+        "image": "/foto umkm desa buahdua/17. Penjahit/Batik Ibu Lia.webp" 
+      },
+      { 
+        "name": "Rok", 
+        "price": "Rp 75.000",
+        "image": "/foto umkm desa buahdua/17. Penjahit/Rok.webp" 
+      }
+    ],
+    "reviews": [
+      "Finishing profesional.", 
+      "Permak tampak seperti baru."
+    ],
+    "contact": "085861559715"
+  },
+  {
+    "id": 18,
+    "name": "Opak Anah & Ruspan",
+    "owner": "Anah & Ruspan",
+    "location": "Bengang RT 01/07",
+    "year_established": "2001",
+    "price": "Rp 10.000",
+    "image": "/foto umkm desa buahdua/18. Makanan Opak/Opak Ma Anah.webp",
+    "category": "makanan",
+    "business_type": "Pribadi",
+    "production_type": "Opak & Lenring",
+    "employees": 1,
+    "description": "Memproduksi opak, rengginang, dan lenring berkualitas dengan tekstur yang renyah dan tidak terlalu keras. Produk camilan tradisional khas Desa Buahdua.",
+    "certificates": ["NIB"],
+    "menu": [
+      {
+        "name": "Opak Ma Anah",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/18. Makanan Opak/Opak Ma Anah.webp"
+      },
+      {
+        "name": "Lenring Ma Anah",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/18. Makanan Opak/Lenring Ma Anah.webp"
+      },
+      {
+        "name": "Rengginang Ma Anah",
+        "price": "Rp 10.000",
+        "image": "/foto umkm desa buahdua/18. Makanan Opak/Rengginang Ma Anah.webp"
+      }
+    ],
+    "reviews": [
+      "Tekstur tidak keras.",
+      "Enak untuk camilan."
+    ],
+    "contact": "081213712129"
+  },
+  {
+    "id": 19,
+    "name": "Penjahit Undang",
+    "owner": "Bapak Undang",
+    "location": "Buahdua RT 01/02",
+    "year_established": "1984",
+    "price": "Rp 20.000 /pcs",
+    "image": "/foto umkm desa buahdua/19. Penjahit/Pa Undang.webp",
+    "category": "jasa",
+    "business_type": "Kelompok/Karyawan",
+    "production_type": "Celana Seragam",
+    "employees": 1,
+    "description": "Bekerja di bawah Bandung Resko. Spesialis menjahit celana seragam untuk distribusi Bandung dengan mengutamakan ketelitian dan kualitas jahitan.",
+    "menu": [
+      { 
+        "name": "Jahit Celana Seragam", 
+        "price": "Rp 20.000",
+        "image": "/foto umkm desa buahdua/19. Penjahit/Mesin Jahit.webp"
+      }
+    ],
+    "reviews": [
+      "Rapi dan presisi.", 
+      "Mengutamakan ketelitian."
+    ],
+    "contact": "085222475016"
   }
 ]

@@ -1,0 +1,93 @@
+{
+  "pertanian": [
+    {
+      "kategori": "Tanaman Pangan",
+      "items": [
+        { "komoditas": "Padi", "data": { "2019": 70, "2020": 65, "2021": 65 }, "satuan": "ha" },
+        { "komoditas": "Jagung", "data": { "2019": 1, "2020": 1, "2021": 1 }, "satuan": "ha" },
+        { "komoditas": "Ubi Kayu", "data": { "2019": 1, "2020": 1, "2021": 1 }, "satuan": "ha" },
+        { "komoditas": "Holtikultura", "data": { "2019": 1, "2020": 1, "2021": 1 }, "satuan": "ha" }
+      ]
+    },
+    {
+      "kategori": "Buah-Buahan",
+      "items": [
+        { "komoditas": "Mangga", "data": { "2019": 2, "2020": 2, "2021": 2 }, "satuan": "ha" },
+        { "komoditas": "Rambutan", "data": { "2019": 2, "2020": 2, "2021": 2 }, "satuan": "ha" },
+        { "komoditas": "Durian", "data": { "2019": 0.5, "2020": 0.5, "2021": 0.5 }, "satuan": "ha" }
+      ]
+    },
+    {
+      "kategori": "Perkebunan",
+      "items": [
+        { "komoditas": "Kelapa", "data": { "2019": 1.2, "2020": 1.2, "2021": 1.2 }, "satuan": "ha" },
+        { "komoditas": "Bambu Tali", "data": { "2019": 2, "2020": 2, "2021": 2 }, "satuan": "ha" }
+      ]
+    }
+  ],
+  "peternakan": [
+    {
+      "kategori": "Ternak Besar",
+      "items": [
+        { "komoditas": "Sapi", "data": { "2019": 50, "2020": 55, "2021": 60 }, "satuan": "ekor" },
+        { "komoditas": "Kerbau", "data": { "2019": 10, "2020": 12, "2021": 15 }, "satuan": "ekor" }
+      ]
+    },
+    {
+      "kategori": "Ternak Kecil",
+      "items": [
+        { "komoditas": "Ayam", "data": { "2019": 200, "2020": 220, "2021": 250 }, "satuan": "ekor" },
+        { "komoditas": "Bebek", "data": { "2019": 50, "2020": 60, "2021": 70 }, "satuan": "ekor" }
+      ]
+    },
+    {
+      "kategori": "Perikanan",
+      "items": [
+        { "komoditas": "Ikan Lele", "data": { "2019": 1000, "2020": 1200, "2021": 1500 }, "satuan": "kg" },
+        { "komoditas": "Ikan Nila", "data": { "2019": 800, "2020": 900, "2021": 1000 }, "satuan": "kg" }
+      ]
+    }
+  ],
+  "budaya": {
+    "deskripsi_umum": "Seni dan Budaya Desa Buahdua meliputi seni Wayang Golek/Jaipong, Kuda Renggong, upacara adat, serta tata rias pengantin tradisional.",
+    "sumber": "Data Desa Buahdua Tahun 2024",
+    "tabel": [
+      { "nama": "Kuda Renggong", "jumlah": 6, "satuan": "grup" },
+      { "nama": "Wayang Golek / Jaipong", "jumlah": 1, "satuan": "grup" },
+      { "nama": "Grup Tanji", "jumlah": 4, "satuan": "grup" },
+      { "nama": "Penari", "jumlah": 2, "satuan": "grup" },
+      { "nama": "Domba Tangkas", "jumlah": 4, "satuan": "grup" },
+      { "nama": "Marawis", "jumlah": 1, "satuan": "grup" },
+      { "nama": "Seni Degung", "jumlah": 1, "satuan": "grup" },
+      { "nama": "Upacara Adat Pernikahan", "jumlah": 2, "satuan": "grup" },
+      { "nama": "Gamelan Salendro", "jumlah": 1, "satuan": "unit" },
+      { "nama": "Gamelan Pelog", "jumlah": 1, "satuan": "unit" }
+    ],
+    "detail_khusus": {
+      "kuda_renggong": {
+        "nama": "Kuda Renggong",
+        "sejarah": "Kuda Renggong merupakan kesenian tradisional khas Kabupaten Sumedang yang telah berkembang sejak abad ke-19. Kesenian ini berasal dari kebiasaan masyarakat melatih kuda agar dapat berjalan mengikuti irama musik. Dalam perkembangannya, Kuda Renggong menjadi bagian penting dari upacara adat, khususnya arak-arakan khitanan. Kuda dihias dengan ornamen warna-warni dan diiringi musik tradisional seperti kendang, terompet, dan gamelan, melambangkan kegembiraan, doa, serta harapan bagi anak yang dikhitan.",
+        "fungsi_budaya": [
+          "Upacara adat khitanan",
+          "Hiburan rakyat",
+          "Identitas budaya lokal Sumedang",
+          "Daya tarik seni dan pariwisata budaya"
+        ],
+        "youtube": [
+          {
+            "judul": "Kuda Renggong Sumedang",
+            "url": "https://youtu.be/CbOFgiEsE_k?si=w5Ne-TARU4yK2wJt"
+          },
+          {
+            "judul": "Tradisi Kuda Renggong",
+            "url": "https://youtu.be/PSna_2WvGEk?si=F8SUu5bfeaUqmwY0"
+          },
+          {
+            "judul": "Kesenian Kuda Renggong Desa",
+            "url": "https://youtu.be/RXo_w9xr3N4?si=2GftYSaay-mAi0un"
+          }
+        ]
+      }
+    }
+  }
+}

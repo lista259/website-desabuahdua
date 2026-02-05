@@ -1,66 +1,339 @@
 {
-  "judul": "Mengenal Desa Buahdua",
-  "tagline": "Desa yang tumbuh dengan semangat kebersamaan, budaya, dan kemandirian",
-
-  "deskripsi": [
-    "Desa Buahdua merupakan salah satu desa yang berada di Kecamatan Buahdua, Kabupaten Sumedang. Desa ini memiliki letak geografis yang cukup strategis karena berada di jalur penghubung antara Kabupaten Sumedang, Indramayu, dan Subang.",
-    "Dengan kondisi alam yang subur serta masyarakat yang menjunjung tinggi nilai kebersamaan dan gotong royong, Desa Buahdua terus berkembang sebagai desa yang aktif, berdaya, dan berbudaya.",
-    "Desa Buahdua dikenal pula dengan julukan “Jogya Dua”, sebuah sebutan yang lahir dari peristiwa bersejarah pada masa perjuangan kemerdekaan Republik Indonesia."
-  ],
-
   "identitas": {
     "julukan": "Jogya Dua",
     "kecamatan": "Buahdua",
     "kabupaten": "Sumedang",
-    "ketinggian": "±400 mdpl"
+    "koordinat": "-6.704003, 107.958",
+    "total_penduduk": "3.599 Jiwa",
+    "jumlah_kk": "1.394 KK",
+    "agama": "Islam (100%)",
+    "iklim": "Tropis (Suhu rata-rata 32°C)"
   },
 
-  "geografis": {
-    "deskripsi": "Desa Buahdua terletak di dataran tinggi dengan bentang alam perbukitan, hamparan persawahan, dan aliran sungai yang mendukung pertanian.",
-    "batas": {
-      "Barat": "Desa Bojongloa dan Kecamatan Tanjungkerta",
-      "Utara": "Desa Gendereh dan Kecamatan Gantar (Kab. Indramayu)",
-      "Timur": "Desa Panyindangan dan Kecamatan Conggeang",
-      "Selatan": "Desa Panyindangan dan Kecamatan Cimalaka"
-    },
-    "sungai": ["Ciwalung", "Ciporong", "Cilogang"]
-  },
-
-  "mataPencaharian": [
-    "Petani dan buruh tani",
-    "Wiraswasta dan pelaku UMKM",
-    "Buruh, pegawai swasta, dan sektor jasa lainnya"
-  ],
-
-  "budaya": [
-    "Kuda Renggong",
-    "Wayang Golek dan Jaipongan",
-    "Seni Degung dan Gamelan",
-    "Tradisi adat dan kesenian masyarakat"
-  ],
-
-  "potensi": [
-    "Pengembangan desa berbasis pertanian dan UMKM",
-    "Pelestarian budaya lokal dan lingkungan",
-    "Pemanfaatan teknologi tepat guna untuk ekonomi masyarakat"
-  ],
-
-  "visiMisi": {
-    "visi": "BUAHDUA INOVATIF, SEJAHTERA, AGAMIS PADA TAHUN 2028 (Buahdua \"BISA\")",
-
+  "visi_misi": {
+    "visi": "BUAHDUA INOVATIF, SEJAHTERA, AGAMIS, PADA TAHUN 2028 (Buahdua BISA)",
     "misi": [
-      {
-        "id": 1,
-        "isi": "Sikap prilaku masyarakat yang Agamis mencerminkan sikap refleksi nilai-nilai agama yang diyakininya ditandai dengan adanya kegiatan keagamaan."
-      },
-      {
-        "id": 2,
-        "isi": "Menciptakan masyarakat Desa Buahdua yang maju secara ekonomi dan infrastruktur sehingga menciptakan kebahagiaan dalam menjalani kehidupan bermasyarakat ditandai dengan meningkatnya IKM, rendahnya angka kemiskinan, meningkatnya distribusi pendapatan dan menurunnya angka stunting."
-      },
-      {
-        "id": 3,
-        "isi": "Inovatif didasarkan pada beberapa ide-ide yang menjadi faktor penting dalam pertumbuhan ekonomi. Manajemen inovasi membantu sebuah pemerintahan untuk memahami kesempatan dan menggunakan kesempatan untuk memperkenalkan ide-ide baru. Dasar dari manajemen inovasi adalah kreativitas, dan tujuan akhirnya adalah perubahan dalam pelayanan prima terhadap masyarakat serta dapat memicu dan menyebarkan kemampuan kreatif dari aparatur pemerintah desa untuk pengembangan yang berkesinambungan."
-      }
+      "Sikap prilaku masyarakat yang Agamis mencerminkan sikap repleksi nilai-nilai agama yang diyakininya ditandai dengan adanya kegiatan keagamaan, meningkatnya partisipasi masyarakat dalam kegiatan keagamaan.",
+      "Menciptakan Masyarakat desa Buahdua yang Maju secara ekonomi dan Infrastruktur sehingga menciptakan kebahagiaan dalam menjalani kehidupan bermasyarakat ditandai dengan meningkatnya IKM, rendahnya Angka kemiskinan, meningkatnya distribusi Pendapatan dan menurunnya angka Stunting.",
+      "Inovatif didasarkan pada beberapa ide-ide yang menjadi faktor penting dalam pertumbuhan ekonomi melalui kreativitas dan perubahan dalam Pelayanan Prima terhadap Masyarakat serta pengembangan Aparatur Pemerintah Desa yang berkesinambungan."
     ]
+  },
+
+  "program_dan_kegiatan_indikatif_desa_buahdua_2020_2028": {
+
+    "bidang_a_penyelenggaraan_pemerintah_desa": [
+      {
+        "no": 1,
+        "kegiatan": "Penyelenggaraan Belanja Siltap, Tunjangan dan Operasional Pemerintahan Desa",
+        "volume": "1 tahun",
+        "lokasi": "Desa",
+        "waktu": "2020-2028"
+      },
+      {
+        "no": 2,
+        "kegiatan": "Pengelolaan Administrasi Kependudukan, Pencatatan Sipil, Statistik dan Kearsipan",
+        "volume": "1 tahun",
+        "lokasi": "Desa",
+        "waktu": "2020-2028"
+      },
+      {
+        "no": 3,
+        "kegiatan": "Penyelenggaraan Tata Praja Pemerintahan, Perencanaan, Keuangan dan Pelaporan",
+        "volume": "1 tahun",
+        "lokasi": "Desa",
+        "waktu": "2020-2028"
+      }
+    ],
+
+    "bidang_b_pembangunan": {
+
+      "sub_bidang_pendidikan": [
+        {
+          "no": 1,
+          "kegiatan": "Penyelenggaraan PAUD/TK/TPA/TKA/TPQ/Madrasah NonFormal Milik Desa",
+          "lokasi": "Dusun 1, 2, 3",
+          "waktu": "2020-2028"
+        },
+        {
+          "no": 2,
+          "kegiatan": "Pemeliharaan Sarana Prasarana PAUD/TK/TPA/TKA/TPQ/Madrasah Nonformal Milik Desa",
+          "lokasi": "Dusun 1, 2, 3",
+          "waktu": "2020-2028"
+        }
+      ],
+
+      "sub_bidang_kesehatan": [
+        {
+          "no": 1,
+          "kegiatan": "Penyelenggaraan Posyandu (makanan tambahan Tambahan, Kls Bumil, Lansia, disable)",
+          "lokasi": "Posyandu",
+          "waktu": "2020-2028"
+        },
+        {
+          "no": 2,
+          "kegiatan": "Penanganan Stunting",
+          "lokasi": "KPM",
+          "waktu": "2020-2028"
+        },
+        {
+          "no": 3,
+          "kegiatan": "Penanganan Pasien ODGJ",
+          "lokasi": "Pasien Jiwa",
+          "waktu": "2020-2028"
+        },
+        {
+          "no": 4,
+          "kegiatan": "Pemeliharaan Sarana Prasarana Posyandu/Polindes/PKD",
+          "lokasi": "Posyandu",
+          "waktu": "2020-2028"
+        }
+      ],
+
+      "sub_bidang_pekerjaan_umum_dan_penataan_ruang": {
+
+        "pemeliharaan_jalan_desa": [
+          { "no": 1, "kegiatan": "Peningkatan Jalan Desa Cilogang - Gugunungan", "lokasi": "RW. 12", "waktu": "2020-2028" },
+          { "no": 2, "kegiatan": "Peningkatan Jalan Desa Bengang - Cilogang", "lokasi": "RW.06,07,09", "waktu": "2020-2028" },
+          { "no": 3, "kegiatan": "Pembangunan/Perbaikan Dreinase dan Gorong gorong Jln Kabupaten", "lokasi": "Jalan PUK", "waktu": "2020-2028" },
+          { "no": 4, "kegiatan": "Perbaikan Drainase Jalan Buahdua - Naringgul Jalan Kabupaten", "lokasi": "Jalan PUK", "waktu": "2020-2028" },
+          { "no": 5, "kegiatan": "Perbaikan Drainase Jalan Buahdua - Cinungku", "lokasi": "Jalan PUK RW. 10", "waktu": "2020-2028" }
+        ],
+
+        "pemeliharaan_jalan_lingkungan_gang": [
+          { "no": 1, "kegiatan": "Rehab Gang RW. 03 Buahdua (P. 270 L. 0,8 T. 0,1)", "lokasi": "RW.03", "waktu": "2020-2028" },
+          { "no": 2, "kegiatan": "Rehab Gang RW. 05 Condong (P. 362,5 L. 0,8 T. 0,1)", "lokasi": "RW.05", "waktu": "2020-2028" },
+          { "no": 3, "kegiatan": "Rehab Gang RW. 06 Naringgul (P. 525,1 L. 0,8 T. 0,1)", "lokasi": "RW.06", "waktu": "2020-2028" },
+          { "no": 4, "kegiatan": "Rehab Gang RW. 07 Bengang (P. 454,3 L. 0,8 T. 0,1)", "lokasi": "RW.07", "waktu": "2020-2028" },
+          { "no": 5, "kegiatan": "Rehab Gang RW. 10 Ciranten (P. 582,6,6 L. 0,8 T. 0,1)", "lokasi": "Rw. 10", "waktu": "2020-2028" }
+        ],
+
+        "jalan_usaha_tani_jut": [
+          { "no": 1, "kegiatan": "Pembangunan JUT Peuntas-Condong", "lokasi": "Peuntas", "waktu": "2020-2028" },
+          { "no": 2, "kegiatan": "Pembangunan JUT Cilogang-Pasirlutung", "lokasi": "Cilogang", "waktu": "2020-2028" },
+          { "no": 3, "kegiatan": "Pembangunan JUT Gugunungan - Cilegok", "lokasi": "Gugunungan", "waktu": "2020-2028" },
+          { "no": 4, "kegiatan": "Pembangunan JUT Ciranteun - Simpeureum", "lokasi": "Ciranten", "waktu": "2020-2028" }
+        ]
+      },
+
+      "sub_bidang_kawasan_pemukiman": {
+
+        "sarana_air_bersih": [
+          { "no": 1, "kegiatan": "Sarana Air Bersih Skala Desa", "lokasi": "SAB Desa", "waktu": "2020-2028" },
+          { "no": 2, "kegiatan": "Pemeliharaan SAB", "lokasi": "SAB Desa", "waktu": "2020-2028" }
+        ],
+
+        "penerangan_dan_irigasi": [
+          { "no": 3, "kegiatan": "Pemasangan/Pemeliharaan PJU dijalan Desa", "lokasi": "Pasar", "waktu": "2020-2028" },
+          { "no": 4, "kegiatan": "Pemeliharaan Saluran Irigasi Tersier/Sederhana", "waktu": "2020-2028" },
+          { "no": 5, "kegiatan": "Irigasi Gugunungan", "lokasi": "Gugunungan", "waktu": "2020-2028" },
+          { "no": 6, "kegiatan": "Irigasi Gugunungan - Manggu", "lokasi": "Manggu", "waktu": "2020-2028" },
+          { "no": 7, "kegiatan": "Irigasi Cijambu", "lokasi": "Cijambu", "waktu": "2020-2028" },
+          { "no": 8, "kegiatan": "Irigasi Cijebir Lanjutan", "lokasi": "Cijebir", "waktu": "2020-2028" },
+          { "no": 11, "kegiatan": "Pelatihan/Bimtek Teknologi Tepat Guna", "lokasi": "Desa/UMKM", "waktu": "2020-2028" }
+        ]
+      }
+    },
+
+    "bidang_c_pembinaan_kemasyarakatan": [
+      {
+        "sub_bidang": "Ketenteraman dan Perlindungan Masyarakat",
+        "kegiatan": "Penguatan & Peningkatan Kapasitas Tenaga Keamanan/Ketertiban",
+        "lokasi": "Linmas",
+        "waktu": "2020-2028"
+      },
+      {
+        "sub_bidang": "Kebudayaan dan Keagamaan",
+        "kegiatan": "Pemeliharaan Sarana Prasarana Kebudayaan dan Keagamaan",
+        "lokasi": "DKM, Imam Khotib",
+        "waktu": "2020-2028"
+      },
+      {
+        "sub_bidang": "Kepemudaan dan Olahraga",
+        "kegiatan": [
+          "Festival/Lomba Kepemudaan dan Olahraga Desa",
+          "Pemeliharaan Sarana Prasarana Kepemudaan dan Olahraga"
+        ],
+        "lokasi": "Karang Taruna",
+        "waktu": "2020-2028"
+      }
+    ],
+
+    "bidang_d_pemberdayaan_masyarakat": [
+      { "no": 1, "kegiatan": "Pelatihan Pemberdayaan Perempuan", "lokasi": "Kelompok Perempuan", "waktu": "2020-2028" },
+      { "no": 2, "kegiatan": "Pelatihan dan Penyuluhan Perlindungan Anak", "waktu": "2020-2028" },
+      { "no": 3, "kegiatan": "Penanganan Keadaan Darurat", "bidang_khusus": "Penanggulangan Bencana", "waktu": "2020-2028" },
+      { "no": 4, "kegiatan": "Penanganan Keadaan Mendesak", "bidang_khusus": "Keadaan Mendesak", "waktu": "2020-2028" }
+    ]
+  },
+
+"deskripsi": [
+  "Desa Buahdua merupakan desa strategis di Kabupaten Sumedang yang menjadi jalur penghubung penting antara Kabupaten Sumedang, Indramayu, dan Subang.",
+  "Terletak di dataran tinggi (±400 m dpl) dengan suhu rata-rata 32°C, desa ini memiliki bentang alam perbukitan indah dan dilintasi tiga sungai utama: Ciwalung, Ciporong, dan Cilogang.",
+  "Dengan luas wilayah 372,44 HA, desa ini memiliki keseimbangan antara area persawahan (196,4 Ha) dan pemukiman (176 Ha)."
+],
+
+"orbitasi": [
+  {
+    "tujuan": "Kantor Kecamatan",
+    "jarak": "0,5 Km",
+    "waktu": "5 Menit"
+  },
+  {
+    "tujuan": "Ibu Kota Kabupaten",
+    "jarak": "29 Km",
+    "waktu": "1 Jam"
+  },
+  {
+    "tujuan": "Ibu Kota Provinsi",
+    "jarak": "74 Km",
+    "waktu": "3 Jam"
+  },
+  {
+    "tujuan": "Ibu Kota Pusat",
+    "jarak": "114 Km",
+    "waktu": "6 Jam"
   }
+],
+
+"fasilitas_publik": {
+  "pendidikan_formal": [
+    { "nama": "Paud Aruna", "guru": 3, "siswa": 32 },
+    { "nama": "RA. Nurul Hidayah", "guru": 4, "siswa": 65 },
+    { "nama": "SDN Buahdua 1", "guru": 7, "siswa": 98 },
+    { "nama": "SDN Buahdua 2", "guru": 7, "siswa": 120 },
+    { "nama": "SDN Darongdong", "guru": 7, "siswa": 112 },
+    { "nama": "MTSN 7 SMD", "guru": 24, "siswa": 214 },
+    { "nama": "SLB BC", "guru": 8, "siswa": 26 }
+  ],
+
+  "pendidikan_non_formal": [
+    "PAUD Ananda",
+    "Kursus Menjahit",
+    "Kursus Kecantikan",
+    "Kursus Bengkel",
+    "PKBM Putra Buahdua"
+  ],
+
+  "kesehatan": {
+    "puskesmas": "Puskesmas Rawat Inap (RW 04 RT 01)",
+    "sarana": [
+      { "jenis": "Apotik", "jumlah": 2 },
+      { "jenis": "Praktek Dokter Umum", "jumlah": 2 },
+      { "jenis": "Praktek Bidan", "jumlah": 2 },
+      { "jenis": "Posyandu", "jumlah": 5 },
+      { "jenis": "Rumah Bersalin", "jumlah": 1 }
+    ]
+  },
+
+  "olahraga": [
+    { "nama": "Lapang Sepak Bola", "jumlah": 1 },
+    { "nama": "Gedung Bulu Tangkis", "jumlah": 1 },
+    { "nama": "Lapang Volley", "jumlah": 6 },
+    { "nama": "Meja Pingpong", "jumlah": 5 }
+  ],
+
+  "keagamaan": [
+    { "jenis": "Masjid", "jumlah": 13 },
+    { "jenis": "Mushola", "jumlah": 3 },
+    { "jenis": "Majlis Taqlim", "jumlah": 12 },
+    { "jenis": "Pesantren", "jumlah": 1 },
+    { "jenis": "TPA/TPQ", "jumlah": 8 }
+  ]
+},
+
+"geografis": {
+  "batas": {
+    "Barat": "Desa Bojongloa & Kec. Tanjungkerta",
+    "Utara": "Desa Gendereh & Kec. Gantar (Indramayu)",
+    "Timur": "Desa Panyindangan & Kec. Conggeang",
+    "Selatan": "Desa Panyindangan & Kec. Cimalaka"
+  },
+  "sungai": ["Cilogang", "Ciporong", "Ciwalung"],
+  "mata_air": ["Cipaseh", "Cibengang", "Cicurug"]
+},
+
+"ekonomi_ketenagakerjaan": {
+  "mata_pencaharian_utama": "Pertanian (75%)",
+
+  "statistik_pekerjaan": [
+    { "bidang": "Pertanian", "jumlah": 543 },
+    { "bidang": "Perdagangan", "jumlah": 211 },
+    { "bidang": "Buruh", "jumlah": 210 },
+    { "bidang": "PNS", "jumlah": 54 }
+  ],
+
+  "umkm": [
+  { "jenis": "Industri Penggilingan padi", "jumlah": 5 },
+  { "jenis": "Industri Makanan", "jumlah": 8 },
+  { "jenis": "Industri Alat rumah tangga", "jumlah": null },
+  { "jenis": "Industri Material Bahan Bangunan", "jumlah": 2 },
+  { "jenis": "Industri Alat Pertanian", "jumlah": 1 },
+  { "jenis": "Industri Kerajinan", "jumlah": 5 },
+  { "jenis": "Industri Pengolahan kayu", "jumlah": 2 },
+  { "jenis": "Rumah makan dan restoran", "jumlah": 2 },
+  { "jenis": "Jasa Perdagangan", "jumlah": null },
+  { "jenis": "Pasar Tradisional", "jumlah": 1 },
+  { "jenis": "Pasar Mingguan", "jumlah": 1 },
+  { "jenis": "Pasar Bulanan", "jumlah": 0 },
+  { "jenis": "Pasar Kaget/Pasar Khusus (mis. Psr Ternak, dll)", "jumlah": 0 },
+  { "jenis": "Jumlah Usaha Toko/Kios/Warung", "jumlah": 71 },
+  { "jenis": "Swalayan", "jumlah": 0 },
+  { "jenis": "Usaha Peternakan (ayam, Domba,sapi)", "jumlah": 82 },
+  { "jenis": "Usaha Perikanan", "jumlah": 6 }
+],
+
+  "teknologi_tepat_guna": [
+    "Alat Penumbuk Beras Ketan/Opak",
+    "Alat Pembakar/Pres Opak",
+    "Pembuat Paving Block",
+    "Pengering Sale"
+  ]
+},
+
+"pembagian_wilayah": [
+  {
+    "dusun": "Dusun I",
+    "kampung": [
+      "Peuntas (RW 01)",
+      "Buahdua (RW 02, 03, 04)",
+      "Condong (RW 05)"
+    ],
+    "rt": 15,
+    "rw": 5
+  },
+  {
+    "dusun": "Dusun II",
+    "kampung": [
+      "Bengang (RW 07)",
+      "Darongdong (RW 08)",
+      "Naringgul (RW 06)"
+    ],
+    "rt": 16,
+    "rw": 4
+  },
+  {
+    "dusun": "Dusun III",
+    "kampung": [
+      "Ciranten (RW 10)",
+      "Pasirpicung (RW 11)",
+      "Malandang (RW 12)"
+    ],
+    "rt": 11,
+    "rw": 3
+  }
+],
+
+"budaya": [
+  { "nama": "Kuda Renggong", "grup": 6 },
+  { "nama": "Group Tanji", "grup": 4 },
+  { "nama": "Domba Tangkas", "grup": 4 },
+  { "nama": "Wayang Golek/Jaipong", "grup": 1 },
+  "Seni Degung",
+  "Gamelan Salendro & Pelog"
+],
+
+"keamanan": {
+  "poskamling": 14,
+  "personel": "Babinsa, Bhabinkamtibmas, 12 Anggota Linmas"
+}
 }

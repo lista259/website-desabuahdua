@@ -1,0 +1,87 @@
+{
+  "layanan_darurat": {
+    "instansi": "Dinas Pemadam Kebakaran dan Penyelamatan Kabupaten Sumedang",
+    "kontak_pusat": "0261201113",
+    "pos_wilayah": [
+      { "nama": "Pos Wil. Tanjungsari", "telp": "0227911113" },
+      { "nama": "Pos Wil. Conggeang", "telp": "Siaga" },
+      { "nama": "Pos Wil. Darmaraja", "telp": "Siaga" }
+    ],
+    "sosial_media": "https://www.instagram.com/damkarsumedang/"
+  },
+  "layanan_kesehatan": {
+    "jadwal_mbg": "Senin & Kamis",
+    "posyandu": [
+      { "nama": "Posyandu Naringgul", "tanggal": "10 setiap bulan" },
+      { "nama": "Posyandu Bengang", "tanggal": "11 setiap bulan" },
+      { "nama": "Posyandu Ciranten", "tanggal": "12 setiap bulan" },
+      { "nama": "Posyandu Condong", "tanggal": "13 setiap bulan" },
+      { "nama": "Posyandu Buahdua", "tanggal": "14 setiap bulan" }
+    ]
+  },
+  "pendidikan": [
+    {
+      "nama": "MTsN 7 Sumedang",
+      "jenjang": "Menengah",
+      "status": "Akreditasi A",
+      "wa": "0882000304063",
+      "ig": "mtsn7sumedang",
+      "web": "https://mtsn7sumedang.sch.id",
+      "alamat": "Jln Veteran Blok Condong"
+    },
+    {
+      "nama": "SDN Buahdua 2",
+      "jenjang": "Dasar",
+      "status": "Diakui/Baik",
+      "ig": "sdnbuahdua2",
+      "alamat": "Desa Buahdua"
+    },
+    {
+      "nama": "SLB BC",
+      "jenjang": "Khusus",
+      "status": "Diakui/Baik",
+      "ig": "slb.ypbuahdua",
+      "alamat": "Desa Buahdua"
+    },
+    {
+      "nama": "SDN Buahdua 1",
+      "jenjang": "Dasar",
+      "status": "Diakui/Baik",
+      "ig": "#",
+      "alamat": "Desa Buahdua"
+    },
+    {
+      "nama": "SDN Darongdong",
+      "jenjang": "Dasar",
+      "status": "Diakui/Baik",
+      "ig": "#",
+      "alamat": "Dusun Darongdong"
+    },
+    {
+      "nama": "PAUD Aruna",
+      "jenjang": "PAUD",
+      "status": "Terdaftar (Milik Desa)",
+      "ig": "#",
+      "alamat": "Desa Buahdua"
+    },
+    {
+      "nama": "RA. Nurul Hidayah",
+      "jenjang": "PAUD",
+      "status": "Terdaftar (PKK)",
+      "ig": "#",
+      "alamat": "Desa Buahdua"
+    }
+  ],
+  "layanan_online": {
+    "nama": "Identitas Kependudukan Digital (IKD)",
+    "deskripsi": "Aplikasi resmi Kemendagri untuk dokumen kependudukan digital (KTP-el & KIA).",
+    "langkah_aktivasi": [
+      "Unduh aplikasi IKD di Play Store.",
+      "Masukkan NIK, Email, dan Nomor HP.",
+      "Verifikasi Wajah (Face Recognition).",
+      "Scan QR Code di Kantor Desa/Kecamatan.",
+      "Aktivasi melalui link di Email."
+    ],
+    "link_ikd": "https://play.google.com/store/apps/details?id=id.go.kemendagri.identitas_kependudukan_digital"
+  }
+}

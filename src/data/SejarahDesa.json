@@ -1,0 +1,41 @@
+{
+  "sejarah": [
+    {
+      "id": 1,
+      "judul": "Legenda Rd. Agus Salam (Buyut Malandang)",
+      "isi": "Rd. Agus Salam adalah putra Rd. Kartadibrata Kusumahdinata (keturunan Susuhunan Sumedang Larang) yang menjabat sebagai Kepala Cutak wilayah Buahdua. Beliau menunjukkan kesaktiannya saat ditugaskan menjamu 2.000+ pasukan Mataram yang hendak menyerang VOC di Batavia. Meski jumlah tamu melonjak 10x lipat dari perkiraan semula (200 orang), persediaan makanan tetap melimpah berkat keyakinan beliau. Atas kemampuannya menjadi 'juru bagi', beliau dijuluki Malandang, yang kini diabadikan menjadi nama Dusun Malandang tempat makam beliau berada."
+    },
+    {
+      "id": 2,
+      "judul": "Filosofi Nama Buahdua",
+      "isi": "Dahulu wilayah ini subur dan menjadi daerah 'panyeuseupan' (tempat menete/menyusui), melambangkan sumber kehidupan layaknya seorang ibu. Untuk menjaga kesopanan tutur kata, istilah 'buah dada' dari filosofi panyeuseupan tersebut kemudian diperhalus menjadi 'Buahdua'. Nama ini digunakan secara resmi untuk desa dan kecamatan hingga saat ini sebagai simbol pertumbuhan dan kemakmuran masyarakat."
+    },
+    {
+      "id": 3,
+      "judul": "Julukan Jogyadua & Jejak Siliwangi",
+      "isi": "Pada 10 November 1949, Lapang Darongdong menjadi saksi bisu upacara penyematan Bintang Gerilya pertama di Indonesia bagi tentara Siliwangi yang hijrah dari Yogyakarta. Peristiwa bersejarah ini dihadiri langsung oleh Sri Sultan Hamengku Buwono IX dan Kolonel Sadikin. Kedekatan historis dengan tokoh dan pasukan dari Yogyakarta inilah yang membuat Desa Buahdua mendapat julukan kehormatan sebagai 'Jogyadua'."
+    },
+    {
+      "id": 4,
+      "judul": "Situs Makam & Tugu Perjuangan",
+      "isi": "Sebagai bentuk penghormatan, Makam Buyut Malandang hingga kini dirawat dengan baik dan sering diziarahi masyarakat. Selain itu, di sebelah barat Lapang Darongdong berdiri tegak Tugu Peringatan Siliwangi. Tugu ini dibangun untuk mengenang situasi Revolusi Fisik dan menjadi simbol kebanggaan sekaligus pengingat bagi warga desa agar selalu menghargai jasa para pejuang masa lampau."
+    }
+  ],
+  "video_dokumentasi": [
+    {
+      "id": 1,
+      "judul": "Dokumentasi Situs Buyut Malandang - Bagian 1",
+      "url": "https://www.youtube.com/embed/drZC-ae64cc"
+    },
+    {
+      "id": 2,
+      "judul": "Dokumentasi Situs Buyut Malandang - Bagian 2",
+      "url": "https://www.youtube.com/embed/F0gGDPfHS5g"
+    },
+    {
+      "id": 3,
+      "judul": "Dokumentasi Situs Buyut Malandang - Bagian 3",
+      "url": "https://www.youtube.com/embed/jPXuA_TDcpU"
+    }
+  ]
+}

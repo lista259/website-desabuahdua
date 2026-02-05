@@ -1,20 +1,26 @@
 [
   {
     "id": 1,
-    "judul": "Gotong Royong Pembersihan Saluran Air",
-    "tanggal": "13 Mei 2024",
-    "gambar": "/berita1.jpg"
+    "judul": "Pengajian Rutinan Desa Buahdua",
+    "tanggal": "3 Februari 2026",
+    "instagram_url": "https://www.instagram.com/p/DUSN6u0EkSa/"
   },
   {
     "id": 2,
-    "judul": "Musyawarah Tahunan Desa",
-    "tanggal": "10 Mei 2024",
-    "gambar": "/berita2.jpg"
+    "judul": "Informasi Perkiraan Cuaca Wilayah",
+    "tanggal": "Februari 2026",
+    "instagram_url": "https://www.instagram.com/p/DUCVzC3Em8_/"
   },
   {
     "id": 3,
-    "judul": "Festival Panen Raya",
-    "tanggal": "02 Mei 2024",
-    "gambar": "/berita3.jpg"
+    "judul": "Penerimaan Mahasiswa Baru UNSAP",
+    "tanggal": "13 Januari 2026",
+    "instagram_url": "https://www.instagram.com/p/DTcP7bDEs1E/"
+  },
+  {
+    "id": 4,
+    "judul": "Launching Makan Bergizi Gratis (MBG)",
+    "tanggal": "Januari 2026",
+    "instagram_url": "https://www.instagram.com/p/DTZOeF_EtTv/"
   }
 ]

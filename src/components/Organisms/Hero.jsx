@@ -16,15 +16,6 @@ export default function BannerCT() {
             Selamat Datang di <br />
             Website Resmi Desa Buahdua
           </h1>
-
-          <p className="mt-4 text-lg opacity-90">
-            H. Jajang Sutisna <br />
-            Kepala Desa Buahdua
-          </p>
-
-          <button className="mt-6 bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-full font-medium transition">
-            Baca Sambutan Lengkap
-          </button>
         </div>
       </div>
     </section>

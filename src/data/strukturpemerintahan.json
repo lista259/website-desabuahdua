@@ -1,0 +1,176 @@
+{
+  "pemerintahan_desa": {
+    "desa": "Desa Buahdua",
+    "kecamatan": "Buahdua",
+    "kabupaten": "Sumedang",
+
+    "kepala_desa": {
+      "nama": "Ahmad Husen C",
+      "jabatan": "Kepala Desa",
+      "foto": "/Foto Perangkat Desa/Ahmad Husen Candrahayat.webp"
+    },
+
+    "sekretaris_desa": {
+      "nama": "Kartaman",
+      "jabatan": "Sekretaris Desa",
+      "foto": "/Foto Perangkat Desa/H Kartaman.webp",
+
+      "kaur": [
+        {
+          "nama": "Dodi Setiawan",
+          "jabatan": "Kaur Umum",
+          "foto": "/Foto Perangkat Desa/Dodi Setiawan.webp"
+        },
+        {
+          "nama": "Kurnia",
+          "jabatan": "Kaur Keuangan",
+          "foto": "/Foto Perangkat Desa/Kurnia.webp"
+        },
+        {
+          "nama": "Edi Susanto",
+          "jabatan": "Kaur Perencanaan",
+          "foto": "/Foto Perangkat Desa/Edi Susanto.webp"
+        }
+      ]
+    },
+
+    "kasi": [
+      {
+        "nama": "Utar Taryana, S.Pd.I",
+        "jabatan": "Kasi Kesejahteraan",
+        "foto": "/Foto Perangkat Desa/Utar Taryana Spd I.webp"
+      },
+      {
+        "nama": "Yana Kusdiyana",
+        "jabatan": "Kasi Pelayanan",
+        "foto": "/Foto Perangkat Desa/Yana Kusdiyana.webp"
+      },
+      {
+        "nama": "Atis Sutisna",
+        "jabatan": "Kasi Pemerintahan",
+        "foto": "/Foto Perangkat Desa/Atis Sutisna.webp"
+      }
+    ],
+
+    "kadus": [
+      {
+        "nama": "Toto Setiadi",
+        "jabatan": "Kadus I",
+        "foto": "/Foto Perangkat Desa/Toto Setiadi.webp"
+      },
+      {
+        "nama": "Nunung Riswana",
+        "jabatan": "Kadus II",
+        "foto": "/Foto Perangkat Desa/Nunung Riswana.webp"
+      },
+      {
+        "nama": "Warno",
+        "jabatan": "Kadus III",
+        "foto": "/Foto Perangkat Desa/Warno.webp"
+      }
+    ]
+  },
+
+  "bpd": {
+    "periode": "2024–2032",
+    "anggota": [
+      { "nama": "Laman", "jabatan": "Ketua BPD" },
+      { "nama": "Amin Mulyana", "jabatan": "Wakil Ketua" },
+      { "nama": "Yuli Rahmawati", "jabatan": "Sekretaris" },
+      { "nama": "Epi Kurnaepi", "jabatan": "Anggota" },
+      { "nama": "Deny Ramdani", "jabatan": "Anggota" },
+      { "nama": "Ai Komalasari", "jabatan": "Anggota" },
+      { "nama": "Sri Warnianti", "jabatan": "Anggota" }
+    ]
+  },
+
+  "lkd": {
+    "lpmd": {
+      "Ketua": "Bambang Margolaksono",
+      "Sekretaris": "Indang Tirtana",
+      "Bendahara": "Inda Nurdiani"
+    },
+
+    "pkk": {
+      "inti": {
+        "Ketua": "Neni Winarni",
+        "Wakil Ketua": "Totoy Kaniasusis",
+        "Sekretaris 1": "U. Umayah",
+        "Sekretaris 2": "Tuti Rohayati",
+        "Bendahara 1": "Euis Nurhayati",
+        "Bendahara 2": "Dian Apraliani"
+      },
+
+      "pokja": {
+        "Pokja I": ["Imas Rohmawati", "Sri Yanyan", "Imas Herlina", "Titi Kaswati"],
+        "Pokja II": ["Cucu Hartati", "Elis Nurheliyah", "Emah Halimah", "Lindawati"],
+        "Pokja III": ["Eem Rohaemi", "Cucu Suminar", "Imas Masriah", "Yayah Pujasari"],
+        "Pokja IV": ["Yuyun Yuningsih", "Ida Carningsih", "Entin Sumartini", "Asih Tarsih"]
+      }
+    },
+
+    "posyandu": {
+      "nama_lembaga": "Kader Posyandu",
+      "anggota": [
+        "Ai Nurela",
+        "Arum Mulyati",
+        "Asih Tarsih",
+        "Cicih K",
+        "Cucu Cuhyati",
+        "Cucu Hartati",
+        "Cucu Liana Rosadi",
+        "Cucu Suminar",
+        "Dian Apraliani",
+        "Eem Rohaemi",
+        "Eha",
+        "Elis Nurheliyah",
+        "Entin Kartini",
+        "Entin Rostini",
+        "Entin Sumartini",
+        "Euis Nurhayati",
+        "Ida Carningsih",
+        "Neni Winarni",
+        "Tina Yuningsih",
+        "Tita Hartati",
+        "Totoy Kaniasusis",
+        "Tuti Rohayati",
+        "U. Umayah",
+        "Wati Roswati",
+        "Wenwen Karwati",
+        "Yuyun Yuningsih"
+      ]
+    },
+
+    "linmas": {
+      "anggota": [
+        "Ade Juanda",
+        "Ahmad Jaenudin",
+        "Awa Raswa",
+        "Darma",
+        "Dedi Kasmadi",
+        "Didi",
+        "Didi Sadri",
+        "Jaja Miharja",
+        "Nana Suwandi",
+        "Wahyu Sapari",
+        "Yaya Suhandi",
+        "Yoyo Tarya"
+      ]
+    },
+
+    "rt_rw": {
+      "RW 01": ["Muhdi", "Undang", "Cucum", "Tutik"],
+      "RW 02": ["Yayah Lesmana", "Asep Dedi Sunandar", "Surya", "Wati Setiawati", "Tatang Sunaryo"],
+      "RW 03": ["Lia Darliah", "Imas Sri Januari", "Dede Aminah", "Toto Aryanto"],
+      "RW 04": ["Nining Rita Sumarni", "Tina Yuningsih", "Ahmad Supriatna", "Erus"],
+      "RW 05": ["Euis Nurhayati", "U. Umayah", "Emah Halimah"],
+      "RW 06": ["Pepen Sobana", "Dede Koswara", "Momo Sugianto", "Titin Sri Nurwulan", "Ujang Mamat", "Cucu Sutarya"],
+      "RW 07": ["Nandar Karwinta", "Endang Sukardi", "Gerry Gandara", "Saepul Hidayat", "Suhandi", "Asep Saefulrohman"],
+      "RW 08": ["Muhamad Ruhyat", "Aep Rosaep", "Dedi Junaedi"],
+      "RW 09": ["Enok Karmilah", "Iskandar Fauzi", "Ujang Suryaningrat", "Koko", "Sutardinata"],
+      "RW 10": ["Sudin", "Jaja Jaelani", "Wangsih Winarti", "Enjang Tasla", "Djadja Sumardja", "Iri Sahri", "Agus Juanda", "Dodi"],
+      "RW 11": ["Didi Maman Permadi", "Amin", "Didi Cahyadi"],
+      "RW 12": ["Acep Peri Supriatna", "Aip Suherman", "Wahmanto"]
+    }
+  }
+}

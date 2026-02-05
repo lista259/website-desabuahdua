@@ -1,22 +1,32 @@
 [
   {
     "id": 1,
-    "label": "Jumlah Penduduk",
-    "value": "3.624"
+    "label": "Total Penduduk",
+    "value": "3.599 Jiwa"
   },
   {
     "id": 2,
-    "label": "Jumlah KK",
-    "value": "2.125"
+    "label": "Laki-laki",
+    "value": "1.807 Jiwa"
   },
   {
     "id": 3,
-    "label": "Luas Wilayah",
-    "value": "10.5 km²"
+    "label": "Perempuan",
+    "value": "1.792 Jiwa"
   },
   {
     "id": 4,
-    "label": "Program Desa Aktif",
-    "value": "15"
+    "label": "Jumlah Kepala Keluarga (KK)",
+    "value": "1.394 KK"
+  },
+  {
+    "id": 5,
+    "label": "Luas Wilayah",
+    "value": "372,44 Ha"
+  },
+  {
+    "id": 6,
+    "label": "Ketinggian",
+    "value": "±400 mdpl"
   }
 ]

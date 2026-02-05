@@ -13,7 +13,9 @@ export default function BannerCTA() {
         </div>
 
         <a
-          href="#"
+          href="https://wa.me/628139461436"
+          target="_blank"
+          rel="noopener noreferrer"
           className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full font-semibold transition"
         >
           Chat Sekarang via WhatsApp

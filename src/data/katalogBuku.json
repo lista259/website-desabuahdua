@@ -1,0 +1,2023 @@
+{
+  "kategori": [
+    {"kode": "000", "nama": "Karya Umum"},
+    {"kode": "100", "nama": "Filsafat & Psikologi"},
+    {"kode": "200", "nama": "Agama"},
+    {"kode": "300", "nama": "Ilmu-ilmu Sosial"},
+    {"kode": "400", "nama": "Bahasa"},
+    {"kode": "500", "nama": "Ilmu-ilmu Murni (Pasti/Alam)"},
+    {"kode": "600", "nama": "Ilmu-ilmu Terapan (Teknologi)"},
+    {"kode": "700", "nama": "Kesenian, Hiburan & Olahraga"},
+    {"kode": "800", "nama": "Kesusastraan"},
+    {"kode": "900", "nama": "Geografi & Sejarah Umum"}
+  ],
+  "buku": [
+    {
+      "kode": "004 SYA i",
+      "judul": "Internet Masuk Sekolah Desa",
+      "pengarang": "Syamsuwal Qamar",
+      "penerbit": "Cipta Dea Pustaka",
+      "kategori": "000",
+      "jumlah": 1
+    },
+    {
+      "kode": "004 AMI m",
+      "judul": "Mengenal Microsoft Word",
+      "pengarang": "Aminudin",
+      "penerbit": "Puri Delco",
+      "kategori": "000",
+      "jumlah": 2
+    },
+    {
+      "kode": "004 JUL p",
+      "judul": "Peliharalah Komputer Anda",
+      "pengarang": "Juliandi",
+      "penerbit": "Cipta Dea Pustaka",
+      "kategori": "000",
+      "jumlah": 1
+    },
+    {
+      "kode": "005 KHA m",
+      "judul": "Mari Belajar Photoshop",
+      "pengarang": "Khaerudin",
+      "penerbit": "CV Dua Usaha Muda",
+      "kategori": "000",
+      "jumlah": 1
+    },
+    {
+      "kode": "070 JIN b",
+      "judul": "Bagaimana Menulis Berita",
+      "pengarang": "-",
+      "penerbit": "-",
+      "kategori": "000",
+      "jumlah": 1
+    },
+
+    {
+      "kode": "150 WAW p",
+      "judul": "Pribadi Smart",
+      "pengarang": "Wawan P.H.",
+      "penerbit": "Wacana Gelora C.",
+      "kategori": "100",
+      "jumlah": 2
+    },
+    {
+      "kode": "152 GIN e",
+      "judul": "Emosi",
+      "pengarang": "Gina Hazairin",
+      "penerbit": "CV Dua Usaha",
+      "kategori": "100",
+      "jumlah": 2
+    },
+    {
+      "kode": "155 HAL c",
+      "judul": "Cara Efektif Membangun Keberanian",
+      "pengarang": "Dr. Janet Hall",
+      "penerbit": "Inti Media",
+      "kategori": "100",
+      "jumlah": 1
+    },
+    {
+      "kode": "155 BAN p",
+      "judul": "Psikologi Perkembangan",
+      "pengarang": "Prof. Dr. Bandi D.",
+      "penerbit": "KTSP",
+      "kategori": "100",
+      "jumlah": 2
+    },
+
+    {
+      "kode": "297 HER a",
+      "judul": "Adab Makan & Minum Orang Muslim",
+      "pengarang": "Heri Gunawan",
+      "penerbit": "CV Putra Setia",
+      "kategori": "200",
+      "jumlah": 2
+    },
+    {
+      "kode": "297 AHM a",
+      "judul": "Al-Qur'an & Rahasia Alam",
+      "pengarang": "Ahmad Yani",
+      "penerbit": "Makrifat",
+      "kategori": "200",
+      "jumlah": 2
+    },
+    {
+      "kode": "297 KHA b",
+      "judul": "Berakhlak dengan Asmaul Husna",
+      "pengarang": "Khabib Basori",
+      "penerbit": "Cempaka Putih",
+      "kategori": "200",
+      "jumlah": 2
+    },
+    {
+      "kode": "297 SAL h",
+      "judul": "Hari-hari Besar Islam",
+      "pengarang": "Drs. Sholahudin H.",
+      "penerbit": "Intimedia",
+      "kategori": "200",
+      "jumlah": 2
+    },
+    {
+      "kode": "297 MAH p",
+      "judul": "Perang Khaibar",
+      "pengarang": "Heri Gunawan",
+      "penerbit": "Makrifat",
+      "kategori": "200",
+      "jumlah": 1
+    },
+    {
+      "kode": "297 RAN p",
+      "judul": "Perang Badar",
+      "pengarang": "Randi Catono",
+      "penerbit": "Insan Madani",
+      "kategori": "200",
+      "jumlah": 2
+    },
+
+    {
+      "kode": "320 HET m",
+      "judul": "Mengenal Globalisasi & Akibatnya",
+      "pengarang": "Hetti R.A",
+      "penerbit": "Wacana Gelora C.",
+      "kategori": "300",
+      "jumlah": 2
+    },
+    {
+      "kode": "320 NAS m",
+      "judul": "Memahami Dampak Globalisasi",
+      "pengarang": "F.M Nachshar",
+      "penerbit": "Puri Pustaka",
+      "kategori": "300",
+      "jumlah": 2
+    },
+    {
+      "kode": "307 FAJ m",
+      "judul": "Mengenal Peradaban Masyarakat",
+      "pengarang": "Fajar MN",
+      "penerbit": "Puri Delco",
+      "kategori": "300",
+      "jumlah": 2
+    },
+    {
+      "kode": "362 FAJ m",
+      "judul": "Mencegah Narkoba",
+      "pengarang": "Fajar MN",
+      "penerbit": "Wacana Gelora",
+      "kategori": "300",
+      "jumlah": 2
+    },
+    {
+      "kode": "363 POL",
+      "judul": "Polusi Air",
+      "pengarang": "Addien A",
+      "penerbit": "Puri Pustaka",
+      "kategori": "300",
+      "jumlah": 2
+    },
+
+    {
+      "kode": "398 CER",
+      "judul": "Cerita Rakyat dari Nusantara",
+      "pengarang": "Nuryanti",
+      "penerbit": "Mitra Sarana",
+      "kategori": "398",
+      "jumlah": 2
+    },
+    {
+      "kode": "398 DON",
+      "judul": "Dongeng Sakadang Kuya",
+      "pengarang": "Tati Purmawati",
+      "penerbit": "Sangga Buana",
+      "kategori": "398",
+      "jumlah": 2
+    },
+    {
+      "kode": "398 SIT",
+      "judul": "Situ Bagendit",
+      "pengarang": "Ki Raksa Sunda",
+      "penerbit": "Persona",
+      "kategori": "398",
+      "jumlah": 2
+    },
+    {
+      "kode": "621 NAS a",
+      "judul": "Air dan Pemanfaatannya untuk Tekn.",
+      "pengarang": "Nasin El-Kab.",
+      "penerbit": "Walatra",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "621 RIK a",
+      "judul": "Alat Penerangan dari Masa ke Masa",
+      "pengarang": "Rike Agustina",
+      "penerbit": "Aneka Cipta K",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "634 NASA",
+      "judul": "Alpukat si Raja Jus",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "630 NUR a",
+      "judul": "Alternatif Bertanam",
+      "pengarang": "Murni Irian",
+      "penerbit": "Pringgandani",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 FAB a",
+      "judul": "Aneka Olahan Daging",
+      "pengarang": "Fabia St. Sarah",
+      "penerbit": "P&B Kilat Jaya",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 AAN a",
+      "judul": "Aneka Olahan dari Jagung",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "WIB",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "641 NIA a",
+      "judul": "Aneka Resep Minuman",
+      "pengarang": "Nia Kaniawati",
+      "penerbit": "Karya Muda S",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "641 RIK a",
+      "judul": "Aneka Resep Olahan Ikan & Udang",
+      "pengarang": "Rike Agustina",
+      "penerbit": "CV. Walagri",
+      "kategori": "600",
+      "jumlah": 3
+    },
+    {
+      "kode": "641 UGA a",
+      "judul": "Aneka Olahan Tepung",
+      "pengarang": "Ugan S",
+      "penerbit": "Media Mutiara",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "654 NAS a",
+      "judul": "Anggur Buah Berkelas",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "654 NAS a",
+      "judul": "Apel Buah Ajaib",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 NUN a",
+      "judul": "A to Z Hidup Sehat",
+      "pengarang": "Nunung Dwi",
+      "penerbit": "Anaksoleh P",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "611 NUN a",
+      "judul": "A to Z Organ Tubuh",
+      "pengarang": "Nunung Dwi",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "616 MEI p",
+      "judul": "Penyakit Menular di Sekitar Kita",
+      "pengarang": "Meilany",
+      "penerbit": "Mediantara",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "628 EDI a",
+      "judul": "Asyiknya Memanfaatkan Sampah MK",
+      "pengarang": "Edi Warsidi",
+      "penerbit": "Putra Setia",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "633 AMIn",
+      "judul": "Bagaimana Budidaya Tebu",
+      "pengarang": "Aminudin",
+      "penerbit": "Sarana Ilmu P",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "635 SAR b",
+      "judul": "Bayam Jadi Pilihan Usaha",
+      "pengarang": "Sarjan R",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "632 BER",
+      "judul": "Berbagai Hama Tanaman Padi",
+      "pengarang": "-",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "630 NAS b",
+      "judul": "Bertanam di Lahan Sempit",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "634 NAS b",
+      "judul": "Bertanam Jeruk",
+      "pengarang": "Nasin El-K",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "636 DWI b",
+      "judul": "Beternak Domba",
+      "pengarang": "Dwie Yulianti",
+      "penerbit": "Cipta Dea",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 AAN b",
+      "judul": "Beternak Ikan Bawal",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "Gaza Publishing",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "639 AAN b",
+      "judul": "Beternak Ikan Emas",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "Gaza Publishing",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 AAN b",
+      "judul": "Beternak Lele Dumbo",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "Gaza Publishing",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "639 AAN b",
+      "judul": "Beternak Nila Gift",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "Gaza Publishing",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "636 ADI b",
+      "judul": "Beternak Puyuh",
+      "pengarang": "Aditya P.H",
+      "penerbit": "Adpale P.C",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "636 ATH b",
+      "judul": "Beternak Unggas",
+      "pengarang": "Athea A.M",
+      "penerbit": "SIP",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "691 HAR b",
+      "judul": "Brownies UKDM Sangat Menjanjikan",
+      "pengarang": "H.M Haris",
+      "penerbit": "Cipta Dea",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "635 NAS b",
+      "judul": "Budidaya Anggrek Dahlia",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Pustaka",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "633 RIA b",
+      "judul": "Budidaya Bambu & Industri Rebung",
+      "pengarang": "Rian M.F",
+      "penerbit": "62",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "634 AMI b",
+      "judul": "Budidaya Buah di Luar Musim",
+      "pengarang": "Aminudin",
+      "penerbit": "SIP",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "633 BA6 b",
+      "judul": "Budidaya Cabai Hibrida",
+      "pengarang": "Bagus Herdi",
+      "penerbit": "CV. Wacana GC",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "633 JAK b",
+      "judul": "Budidaya Gaharu",
+      "pengarang": "Ir. Jaka T",
+      "penerbit": "Citra Aji P",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "639 CAH b",
+      "judul": "Budidaya Ikan Arwana",
+      "pengarang": "Cahyanto",
+      "penerbit": "Walatra",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 ASN k",
+      "judul": "Kerupuk Kepiting",
+      "pengarang": "Asmara",
+      "penerbit": "Cipta Dea P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "630 EDI k",
+      "judul": "Keterampilan Membudidayakan Tanaman",
+      "pengarang": "Edi Warsidi",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "639 FAJ k",
+      "judul": "Keterampilan Budidaya Ikan Air Tawar",
+      "pengarang": "Fajar M.N.",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 EDI k",
+      "judul": "Keterampilan Budidaya Ikan Hias",
+      "pengarang": "Edi Warsidi",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 EDI k",
+      "judul": "Keterampilan Budidaya Lobster Air Tawar",
+      "pengarang": "Edi Warsidi",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "636 FAJ k",
+      "judul": "Keterampilan Beternak Itik",
+      "pengarang": "Fajar Muhammad",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 FAJ t",
+      "judul": "Teknis Pengawetan Bahan Hewan",
+      "pengarang": "Fajar M.N.",
+      "penerbit": "Puri Pustaka",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "630 SIT r",
+      "judul": "Kiat Memilih & Memelihara Belut",
+      "pengarang": "Siti Hajar",
+      "penerbit": "Bina Muda",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 UGA r",
+      "judul": "Praktis Membuat Aneka Mie & Bakso",
+      "pengarang": "Ugan S.A.",
+      "penerbit": "Pringgandani",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "613 DHI r",
+      "judul": "Kinanti Atik",
+      "pengarang": "Dhipa Galuh P.",
+      "penerbit": "CV. Walagri",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "621 ANA r",
+      "judul": "Kincir Air & Kincir Angin",
+      "pengarang": "Anandita F.P.",
+      "penerbit": "Sarana Ilmu P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 ALI r",
+      "judul": "Kontrasepsi Hormonal",
+      "pengarang": "Ali B.",
+      "penerbit": "Bina Pustaka S.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 HET r",
+      "judul": "Kuman di Sekitar Kita",
+      "pengarang": "Hetti R.",
+      "penerbit": "Sarana Ilmu P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "618 BAN l",
+      "judul": "Layanan Perilaku Anak Hiperaktif",
+      "pengarang": "Prof. Dr. Bandi",
+      "penerbit": "KTSP",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 ALN l",
+      "judul": "Lingkungan Bersih Lingkungan Sehat",
+      "pengarang": "Al Nurrizky",
+      "penerbit": "Sunda Kelapa P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "628 ANN m",
+      "judul": "Mahir Membuat Penjernih Air Sederhana",
+      "pengarang": "Anna Rosdiana",
+      "penerbit": "Puri Pustaka",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "668 NAS m",
+      "judul": "Mahir Membuat Pupuk Kompos",
+      "pengarang": "F.M. Nashar",
+      "penerbit": "Wacana G.C.",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "610 ANA m",
+      "judul": "Makanan Jadi Obat, Obat Jadi Makanan",
+      "pengarang": "Anna Rosdiana",
+      "penerbit": "CV. Putra Setia",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "633 SAR m",
+      "judul": "Manjur Berbudidaya Tanaman Sayur",
+      "pengarang": "Sarjan R.D.Y.",
+      "penerbit": "Sarana Ilmu P.",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "636 RIA m",
+      "judul": "Mari Belajar Beternak Hewan",
+      "pengarang": "Riana Afiadi",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "636 AAN m",
+      "judul": "Mari Berternak Ayam Arab",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "Gaza Publishing",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 SUF m",
+      "judul": "Masakan Ikan & Seafood Nusantara",
+      "pengarang": "Sufi S.Y.",
+      "penerbit": "PT. Agromedia",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 HAR n",
+      "judul": "Nata de Coco",
+      "pengarang": "H.M. Haris Z.",
+      "penerbit": "Cipta Dea P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "634 NAS n",
+      "judul": "Nanas dari A - Z",
+      "pengarang": "Nasin L.K.",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "635 RIK m",
+      "judul": "Melejitkan Budidaya Tomat",
+      "pengarang": "Rika Muniarti",
+      "penerbit": "Sarana Ilmu P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 KUS m",
+      "judul": "Memahami Gizi untuk Kesehatan Ibu",
+      "pengarang": "Drs. Kusno",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 HET m",
+      "judul": "Memahami Penyakit Menular Seksual",
+      "pengarang": "Hetti Restiati",
+      "penerbit": "Puri Pustaka",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "636 MEM",
+      "judul": "Membangkitkan Motivasi Peternak Sukses",
+      "pengarang": "U. Sartika",
+      "penerbit": "Cipta Dea P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 TIT m",
+      "judul": "Membiasakan Hidup Sehat",
+      "pengarang": "Titin Fitriani",
+      "penerbit": "Puri Pustaka",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "621 ATH m",
+      "judul": "Membuat Karya Elektronik Listrik",
+      "pengarang": "Athea A.M.",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "641 HET m",
+      "judul": "Membuat Manisan Segar",
+      "pengarang": "Hetti Restiati",
+      "penerbit": "Pringgandani",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "668 SIN m",
+      "judul": "Membuat Pupuk Organik dari Sampah",
+      "pengarang": "Singgih S.",
+      "penerbit": "C.V. Dua Usaha M.",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "664 MEM m",
+      "judul": "Membuat Tahu & Tempe",
+      "pengarang": "-",
+      "penerbit": "Agromedia",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "635 ADD m",
+      "judul": "Menanam & Merawat Tanaman Hias",
+      "pengarang": "Addien A.",
+      "penerbit": "Sarana Ilmu P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "616 WAL m",
+      "judul": "Menangani Penyakit Ringan",
+      "pengarang": "Waldjinah",
+      "penerbit": "Sunda Kelapa",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 ANI m",
+      "judul": "Mengawetkan Sayur & Buah-buahan",
+      "pengarang": "Annisa Ami",
+      "penerbit": "CV. Madina Perkasa",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "630 SAR m",
+      "judul": "Mengenal Bioteknologi",
+      "pengarang": "Sari Darmasiwi",
+      "penerbit": "Insan Mandiri",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "635 FIK m",
+      "judul": "Mengenal & Bertanam Bunga Adenium",
+      "pengarang": "Fika Hidayani",
+      "penerbit": "Putra Mandiri",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "621 NAS a",
+      "judul": "Air dan Pemanfaatannya untuk Tekn.",
+      "pengarang": "Nasin El-Kab.",
+      "penerbit": "Walatra",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "621 RIK a",
+      "judul": "Alat Penerangan dari Masa ke Masa",
+      "pengarang": "Rike Agustina",
+      "penerbit": "Aneka Cipta K",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "634 NASA",
+      "judul": "Alpukat si Raja Jus",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "630 NUR a",
+      "judul": "Alternatif Bertanam",
+      "pengarang": "Murni Irian",
+      "penerbit": "Pringgandani",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 FAB a",
+      "judul": "Aneka Olahan Daging",
+      "pengarang": "Fabia St. Sarah",
+      "penerbit": "P&B Kilat Jaya",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 AAN a",
+      "judul": "Aneka Olahan dari Jagung",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "WIB",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "641 NIA a",
+      "judul": "Aneka Resep Minuman",
+      "pengarang": "Nia Kaniawati",
+      "penerbit": "Karya Muda S",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "641 RIK a",
+      "judul": "Aneka Resep Olahan Ikan & Udang",
+      "pengarang": "Rike Agustina",
+      "penerbit": "CV. Walagri",
+      "kategori": "600",
+      "jumlah": 3
+    },
+    {
+      "kode": "654 NAS a",
+      "judul": "Anggur Buah Berkelas",
+      "pengarang": "Nasin El-K",
+      "penerbit": "Puri Delco",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "613 NUN a",
+      "judul": "A to Z Hidup Sehat",
+      "pengarang": "Nunung Dwi",
+      "penerbit": "Anaksoleh P",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "628 EDI a",
+      "judul": "Asyiknya Memanfaatkan Sampah MK",
+      "pengarang": "Edi Warsidi",
+      "penerbit": "Putra Setia",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "636 DWI b",
+      "judul": "Beternak Domba",
+      "pengarang": "Dwie Yulianti",
+      "penerbit": "Cipta Dea",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 AAN b",
+      "judul": "Beternak Ikan Bawal",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "Gaza Publishing",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "636 ADI b",
+      "judul": "Beternak Puyuh",
+      "pengarang": "Aditya P.H",
+      "penerbit": "Adpale P.C",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "633 BA6 b",
+      "judul": "Budidaya Cabai Hibrida",
+      "pengarang": "Bagus Herdi",
+      "penerbit": "CV. Wacana GC",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 CAH b",
+      "judul": "Budidaya Ikan Arwana",
+      "pengarang": "Cahyanto",
+      "penerbit": "Walatra",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 ASN k",
+      "judul": "Kerupuk Kepiting",
+      "pengarang": "Asmara",
+      "penerbit": "Cipta Dea P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "639 FAJ k",
+      "judul": "Keterampilan Budidaya Ikan Air Tawar",
+      "pengarang": "Fajar M.N.",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "639 EDI k",
+      "judul": "Keterampilan Budidaya Lobster Air Tawar",
+      "pengarang": "Edi Warsidi",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "636 FAJ k",
+      "judul": "Keterampilan Beternak Itik",
+      "pengarang": "Fajar Muhammad",
+      "penerbit": "-",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "628 ANN m",
+      "judul": "Mahir Membuat Penjernih Air Sederhana",
+      "pengarang": "Anna Rosdiana",
+      "penerbit": "Puri Pustaka",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "668 NAS m",
+      "judul": "Mahir Membuat Pupuk Kompos",
+      "pengarang": "F.N. Nashar",
+      "penerbit": "Wacana G.C.",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "641 SUF m",
+      "judul": "Masakan Ikan & Seafood Nusantara",
+      "pengarang": "Sufi S.Y.",
+      "penerbit": "PT. Agromedia",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 HAR n",
+      "judul": "Nata de Coco",
+      "pengarang": "H.M. Haris Z.",
+      "penerbit": "Cipta Dea P.",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 MEM m",
+      "judul": "Membuat Tahu & Tempe",
+      "pengarang": "-",
+      "penerbit": "Agromedia",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 ANI m",
+      "judul": "Mengawetkan Sayur & Buah-buahan",
+      "pengarang": "Annisa Ami",
+      "penerbit": "CV. Madina Perkasa",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "636 AAN u",
+      "judul": "Usaha pemeliharaan ayam broiler",
+      "pengarang": "Aang Sonhaji",
+      "penerbit": "AND",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "646 ANA u",
+      "judul": "Usaha rajutan bagi masyarakat",
+      "pengarang": "Anandita F",
+      "penerbit": "Pringgandani",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "641 ROS v",
+      "judul": "Variasi camilan crispy",
+      "pengarang": "Rosa T",
+      "penerbit": "Agromedia P",
+      "kategori": "600",
+      "jumlah": 1
+    },
+    {
+      "kode": "636 SAR w",
+      "judul": "Warga desa ingin tahu teknik memelihara",
+      "pengarang": "Sarjan R",
+      "penerbit": "Sarana Ilmu P",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "697 AAN w",
+      "judul": "Waspada pemanasan global",
+      "pengarang": "Aang sonhaji",
+      "penerbit": "Pandawa",
+      "kategori": "600",
+      "jumlah": 2
+    },
+    {
+      "kode": "664 SIN w",
+      "judul": "Wira usaha pembuatan tempe & oncom",
+      "pengarang": "Singgih s",
+      "penerbit": "Walatra",
+      "kategori": "600",
+      "jumlah": 2
+    },
+  {
+    "kode": "745 DAH a",
+    "judul": "Aneka Kreasi dari Pohon Nangka",
+    "pengarang": "Dahir",
+    "penerbit": "Bagastrono",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "790 AMI a",
+    "judul": "Apresiasi dan Ekspresi Seni Rupa",
+    "pengarang": "Aminudin",
+    "penerbit": "Puri Pustaka",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 EDI a",
+    "judul": "Asyiknya Berkarya dg Memanfaatkan Sampah",
+    "pengarang": "Edi Warsidi",
+    "penerbit": "Putra Setia",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 FAJ k",
+    "judul": "Kerajinan dari Barang Bekas",
+    "pengarang": "Fajar M.N",
+    "penerbit": "Wacana Gelora",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 HET k",
+    "judul": "Kerajinan Kertas Bekas",
+    "pengarang": "Hetti R",
+    "penerbit": "-",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 FAJ k",
+    "judul": "Keterampilan Membuat Kreasi Lampu",
+    "pengarang": "Fajar M.N",
+    "penerbit": "Mitra Utama",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "746 WAS k",
+    "judul": "Keterampilan Menghias Kain",
+    "pengarang": "Ny. Wasia R",
+    "penerbit": "Angkasa-Bdg",
+    "kategori": "700",
+    "jumlah": 1
+  },
+  {
+    "kode": "778 REN k",
+    "judul": "Kinematografi Kamera Film Abad 21",
+    "pengarang": "Rendy J.R",
+    "penerbit": "AND",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 YON k",
+    "judul": "Kreasi Kue Imitasi",
+    "pengarang": "Yongky Iskandar",
+    "penerbit": "Sarana Ilmu Pustaka",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 FRA k",
+    "judul": "Kreasi Objek 3D Rumah Ibadah",
+    "pengarang": "Frans Dwiono",
+    "penerbit": "Erlangga",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 HET k",
+    "judul": "Kreasi Unik dari Kaca",
+    "pengarang": "Hetti R",
+    "penerbit": "Pringgandani",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "796 SUG l",
+    "judul": "Langkah Menjadi Pemain Basket Hebat",
+    "pengarang": "Drs. Sugiarto",
+    "penerbit": "Mediantara",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "796 SUG l",
+    "judul": "Langkah Menjadi Pemain Sepak Bola Hebat",
+    "pengarang": "Drs. Sugiarto",
+    "penerbit": "Mediantara",
+    "kategori": "700",
+    "jumlah": 1
+  },
+  {
+    "kode": "796 SUG l",
+    "judul": "Langkah Menjadi Pemain Voli Hebat",
+    "pengarang": "Drs. Sugiarto",
+    "penerbit": "Mediantara",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "791 GUN l",
+    "judul": "Leksikon Pewayangan",
+    "pengarang": "R. Gunawan",
+    "penerbit": "Puspawarna",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "741 INE l",
+    "judul": "Let's Make Crafts",
+    "pengarang": "Inet Gunawan",
+    "penerbit": "Citra Aji P",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 ADD m",
+    "judul": "Mahir Membuat Kerajinan Tanah Liat",
+    "pengarang": "Addien A",
+    "penerbit": "Puri Melco",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 HET m",
+    "judul": "Membuat Kerajinan dari Bahan Alam",
+    "pengarang": "Hetti R",
+    "penerbit": "Cipta Dea",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 MEM",
+    "judul": "Membuat Kreasi dengan Sedotan",
+    "pengarang": "-",
+    "penerbit": "Puri Pustaka",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "726 ANA m",
+    "judul": "Mengenal Candi",
+    "pengarang": "Anandita",
+    "penerbit": "Puri Delco",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "792 JIN m",
+    "judul": "Mengenal Seni Tari Indonesia",
+    "pengarang": "Jingga ZK",
+    "penerbit": "Mugni Sejahtera",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 MUJ p",
+    "judul": "Pemanfaatan Limbah Plastik",
+    "pengarang": "Mujib R",
+    "penerbit": "Bagaskoro",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "790 YUL p",
+    "judul": "Pengantar Seni Rupa untuk SMP",
+    "pengarang": "Cipta Dea P",
+    "penerbit": "Yulianti",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "792 YUL p",
+    "judul": "Pengantar Seni Tari",
+    "pengarang": "Yulianti",
+    "penerbit": "Cipta Dea P",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "722 YUA p",
+    "judul": "Arsitektur Peradaban Sejarah di Dunia",
+    "pengarang": "Yuanita",
+    "penerbit": "Bangkit Citra",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 ANA t",
+    "judul": "Terampil Mengolah Kain Perca",
+    "pengarang": "Anandita",
+    "penerbit": "Wacana Gelora",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "745 SOE s",
+    "judul": "Seni Kerajinan Sulaman",
+    "pengarang": "Soedjono",
+    "penerbit": "Angkasa Bdg",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "719 TAM",
+    "judul": "Taman Nasional di Indonesia",
+    "pengarang": "-",
+    "penerbit": "Puri Pustaka",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+    "kode": "738 AMI t",
+    "judul": "Terampil Membuat Tembikar",
+    "pengarang": "Aminudin",
+    "penerbit": "Sarana Ilmu P",
+    "kategori": "700",
+    "jumlah": 2
+  },
+  {
+  "kode": "813 MAM a",
+  "judul": "Agis dan Susu Kedelai",
+  "pengarang": "M. Permana",
+  "penerbit": "Mugni Sejahtera",
+  "kategori": "800",
+  "jumlah": 2
+  },
+  {
+    "kode": "833 GAL a",
+    "judul": "Aku Menginginkan Bulan",
+    "pengarang": "Chanty D",
+    "penerbit": "Erlangga",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ANN a",
+    "judul": "Aneka Cara Pembuatan Minyak Kelapa",
+    "pengarang": "Anna D.S",
+    "penerbit": "Walagri",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "808 ANT",
+    "judul": "Antologi Cerpen",
+    "pengarang": "-",
+    "penerbit": "Bangkit C.O",
+    "kategori": "800",
+    "jumlah": 1
+  },
+  {
+    "kode": "808 SIG a",
+    "judul": "Asyiknya Menulis Buku Harian",
+    "pengarang": "Sigit Rais",
+    "penerbit": "Mitra Sarana",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "819 DHI b",
+    "judul": "BADOG",
+    "pengarang": "Dhipa Galuh",
+    "penerbit": "WIB",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ANN b",
+    "judul": "Bagaimana Cara Bakau Bertahan Hidup?",
+    "pengarang": "Anna Martina",
+    "penerbit": "Amandelta",
+    "kategori": "800",
+    "jumlah": 0
+  },
+  {
+    "kode": "808 KHO b",
+    "judul": "Banyol Bari Ngabuburit",
+    "pengarang": "Dhipa Galuh",
+    "penerbit": "Anwar Press",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "819 CUC b",
+    "judul": "Bedog Keramat",
+    "pengarang": "Cucu Komara",
+    "penerbit": "Pandawa",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ANN b",
+    "judul": "Bagaimana Cara Menghambat Penuaan",
+    "pengarang": "Anna M",
+    "penerbit": "Amandelta",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "812 ADD b",
+    "judul": "Belajar Seni Drama",
+    "pengarang": "Addien A",
+    "penerbit": "Puri Pustaka",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ANN b",
+    "judul": "Benarkah Sebenarnya Benda Malas Ber...",
+    "pengarang": "Anna M",
+    "penerbit": "Amandelta",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ERY b",
+    "judul": "Berkah dari Jerami",
+    "pengarang": "Eriyandi B",
+    "penerbit": "AND",
+    "kategori": "800",
+    "jumlah": 1
+  },
+  {
+    "kode": "813 YAS b",
+    "judul": "Si Boncel",
+    "pengarang": "Yasa",
+    "penerbit": "Andira",
+    "kategori": "800",
+    "jumlah": 0
+  },
+  {
+    "kode": "813 REN b",
+    "judul": "Budi Daya Nenas",
+    "pengarang": "Rendy J.R",
+    "penerbit": "Sanjari Indo",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ZEN b",
+    "judul": "Bunga Daur Ulang",
+    "pengarang": "Zeni S.N",
+    "penerbit": "PT. Puri Pustaka",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ANA c",
+    "judul": "UPGLOSS",
+    "pengarang": "Ananta G",
+    "penerbit": "Walagri",
+    "kategori": "800",
+    "jumlah": 1
+  },
+  {
+    "kode": "813 NIN c",
+    "judul": "Kisah Bunga",
+    "pengarang": "Nina R",
+    "penerbit": "Cipta Dea P",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "819 ERY e",
+    "judul": "Esei-esei Sunda Santey",
+    "pengarang": "Eriyandi B",
+    "penerbit": "Pandawa",
+    "kategori": "800",
+    "jumlah": 1
+  },
+  {
+    "kode": "813 TAT g",
+    "judul": "Galuring Gending",
+    "pengarang": "Tatang S",
+    "penerbit": "Giri Mukti",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "839 STO h",
+    "judul": "Hantu Pelaut",
+    "pengarang": "Catherine S",
+    "penerbit": "Intimedia",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 TJE h",
+    "judul": "Hikmah Kejujuran",
+    "pengarang": "Drs. Tjetjep S",
+    "penerbit": "Puri Delco",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ZEN h",
+    "judul": "Hantu Penjaga Pohon",
+    "pengarang": "Zeni S.N",
+    "penerbit": "Puri Pustaka",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ZEN h",
+    "judul": "Hutan Sahabat Kami",
+    "pengarang": "Zeni S.N",
+    "penerbit": "-",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ZEN h",
+    "judul": "Hutan di Negeri Tanpa Tangis",
+    "pengarang": "Zeni S.N",
+    "penerbit": "-",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ANN h",
+    "judul": "Hutanku Malang Hutanku Sayang",
+    "pengarang": "Anna D. Sanjari",
+    "penerbit": "GZ",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 YUS j",
+    "judul": "Jajaten Ninggang Papasten",
+    "pengarang": "Yus Rusyana",
+    "penerbit": "Kiblat",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 NUR j",
+    "judul": "Jangan Corat-coret",
+    "pengarang": "Nursisto",
+    "penerbit": "Puri Pustaka",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 HAS k",
+    "judul": "Kawula Muda yg Berjasa",
+    "pengarang": "Hasyim Sri",
+    "penerbit": "Puri Pustaka",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 TOJ k",
+    "judul": "Kiat Meniti Buih",
+    "pengarang": "Tojib",
+    "penerbit": "-",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ZEN k",
+    "judul": "Kisah Pohon Asem",
+    "pengarang": "Zeni S.N",
+    "penerbit": "-",
+    "kategori": "800",
+    "jumlah": 1
+  },
+  {
+    "kode": "808 AMI k",
+    "judul": "Kreatif Membuat Ragam Tulisan",
+    "pengarang": "Aminudin",
+    "penerbit": "-",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 WAY l",
+    "judul": "Lahirnya Sang Juara",
+    "pengarang": "Way Kasep",
+    "penerbit": "-",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 VIV m",
+    "judul": "Manfaat Serbuk Gergaji",
+    "pengarang": "Vivi W",
+    "penerbit": "Mediantara S",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ERY m",
+    "judul": "Mantel Ajaib",
+    "pengarang": "Eriyandi B",
+    "penerbit": "Intimedia",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 ITO m",
+    "judul": "Mapay Jalan Tarahal",
+    "pengarang": "Ito Cs",
+    "penerbit": "GZ",
+    "kategori": "800",
+    "jumlah": 1
+  },
+  {
+    "kode": "811 ETT m",
+    "judul": "Maung Bayangan",
+    "pengarang": "Etti R.S",
+    "penerbit": "CV. Sanggabuana",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 TJE m",
+    "judul": "Melakukan Perbuatan Terpuji",
+    "pengarang": "Drs. Tjetjep S",
+    "penerbit": "Kiblat Buku U",
+    "kategori": "800",
+    "jumlah": 2
+  },
+  {
+    "kode": "813 TJE m",
+    "judul": "-",
+    "pengarang": "-",
+    "penerbit": "Puri Delco",
+    "kategori": "800",
+    "jumlah": 0
+  },
+  {
+    "kode": "819 WAW",
+    "judul": "Wawacan Dana Koswara",
+    "pengarang": "Drs. Dedi Kusnadi",
+    "penerbit": "Mugni Sejahtera",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "819 WAW",
+    "judul": "Wawacan Suryaningrat",
+    "pengarang": "Drs. Dedi Kusnadi",
+    "penerbit": "Mugni Sejahtera",
+    "kategori": "900",
+    "jumlah": 1
+  },
+  {
+    "kode": "819 WAW",
+    "judul": "Wawacan Walangsungsang",
+    "pengarang": "Drs. Dedi Kusnadi",
+    "penerbit": "Mugni Sejahtera",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "910 RIF e",
+    "judul": "45 Tempat yg Wajib dikunjungi",
+    "pengarang": "Rifki W",
+    "penerbit": "Dua Usaha Muda",
+    "kategori": "900",
+    "jumlah": 1
+  },
+  {
+    "kode": "922 KHA i",
+    "judul": "Ilmuwan-Ilmuwan Muslim Pengubah Zaman",
+    "pengarang": "Habib Bashari",
+    "penerbit": "Cempaka Putih",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "923 AMN k",
+    "judul": "K.H. Fahruddin Pahlawan yg Terlupakan",
+    "pengarang": "Anno D",
+    "penerbit": "CV. Pandawa",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "910 IIS k",
+    "judul": "Keajaiban Dunia",
+    "pengarang": "Iis Permanawati",
+    "penerbit": "Bangkit Citra P",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "920 HET k",
+    "judul": "Kaum Wanita dalam Pergerakan Indonesia",
+    "pengarang": "Hetti Restianti",
+    "penerbit": "Puri Delco",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "920 HET m",
+    "judul": "Mengungkapkan Pikiran & Pengalaman dalam...",
+    "pengarang": "-",
+    "penerbit": "PT. Puri Pustaka",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "958 TAM n",
+    "judul": "NKRI",
+    "pengarang": "Tammi Prastowo",
+    "penerbit": "Cempaka Putih",
+    "kategori": "900",
+    "jumlah": 1
+  },
+  {
+    "kode": "920 END p",
+    "judul": "Pahlawanku Idolaku",
+    "pengarang": "Endar W",
+    "penerbit": "-",
+    "kategori": "900",
+    "jumlah": 1
+  },
+  {
+    "kode": "962 API s",
+    "judul": "Sejarah Peradaban Mesir Kuno",
+    "pengarang": "Nuryusuf A",
+    "penerbit": "CV. Wacana G.C",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "958 FAJ s",
+    "judul": "Soekarno-Hatta",
+    "pengarang": "Fajar M.N",
+    "penerbit": "PT. Puri Pustaka",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "925 MUS t",
+    "judul": "Tokoh Pemikir & Ideologi Politik di...",
+    "pengarang": "Musnur",
+    "penerbit": "CV. Dua Usaha M",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "925 NAS t",
+    "judul": "Tokoh Ilmu Pengetahuan Alam",
+    "pengarang": "F.M. Nashshar",
+    "penerbit": "PT. Citra Persada",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "kode": "910 BEL w",
+    "judul": "Wisata Pantai di Indonesia",
+    "pengarang": "Bela Istiqomah",
+    "penerbit": "CV. Dua Usaha M",
+    "kategori": "900",
+    "jumlah": 2
+  },
+  {
+    "judul": "Anugerah Laut Arafura",
+    "pengarang": "Jap Laramahu",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 2
+  },
+  {
+    "judul": "Cara Kerja Paru-paru dan Pernapasan",
+    "pengarang": "dr. Endang",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Cuaca dan Lingkungan Sekitarnya",
+    "pengarang": "A. Setiawan",
+    "penerbit": "Alfabeta",
+    "kategori": "ilmu_murni",
+    "jumlah": 3
+  },
+  {
+    "judul": "Hutan",
+    "pengarang": "Dougal Dixon",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Kehidupan Tumbuhan Laut",
+    "pengarang": "-",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Kekayaan Kayu dan Buah Hutan Hujan Tropis",
+    "pengarang": "Dra. Djohanah",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Mengamati Kehidupan Ikan",
+    "pengarang": "-",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Padang Rumput",
+    "pengarang": "Casey Horton",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Samudera",
+    "pengarang": "Martin Bramwell",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Berkreasi dengan Kulit",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 3
+  },
+  {
+    "judul": "Berkreasi dengan Rotan",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Jamur Merang",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 2
+  },
+  {
+    "judul": "Kreasi Sulaman",
+    "pengarang": "Lisyani A.",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Kotak-katik Kotak",
+    "pengarang": "Ananda H.",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Las Listrik",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Mesin Pintar Komputer",
+    "pengarang": "Soeparmo",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Mesin Sinkron",
+    "pengarang": "Agus Ponijo",
+    "penerbit": "CV. Surya Aksara",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Memperbaiki Alat Listrik Rumah Tangga",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Seni Merangkai Bunga",
+    "pengarang": "Slamet Hendro",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 2
+  },
+  {
+    "judul": "Seni Merangkai Buah dan Sayur",
+    "pengarang": "Slamet Hendro",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Umbi-umbian",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_ilmu_terapan",
+    "jumlah": 3
+  },
+  {
+    "judul": "Buah Segar",
+    "pengarang": "Piet Ompong",
+    "penerbit": "Rosda Karya",
+    "kategori": "kesenian",
+    "jumlah": 1
+  },
+  {
+    "judul": "Menggambar dan Membaca Peta",
+    "pengarang": "Tim Redaksi Rosda",
+    "penerbit": "Rosda Karya",
+    "kategori": "kesenian",
+    "jumlah": 1
+  },
+  {
+    "judul": "Anugerah Laut Arafura",
+    "pengarang": "Jap Laramahu",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 2
+  },
+  {
+    "judul": "Cara Kerja Paru-paru dan Pernapasan",
+    "pengarang": "dr. Endang",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Cuaca dan Lingkungan Sekitarnya",
+    "pengarang": "A. Setiawan",
+    "penerbit": "Alfabeta",
+    "kategori": "ilmu_murni",
+    "jumlah": 3
+  },
+  {
+    "judul": "Hutan",
+    "pengarang": "Dougal Dixon",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Kehidupan Tumbuhan Laut",
+    "pengarang": "-",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Samudera",
+    "pengarang": "Martin Bramwell",
+    "penerbit": "Rosda Karya",
+    "kategori": "ilmu_murni",
+    "jumlah": 1
+  },
+  {
+    "judul": "Berkreasi dengan Kulit",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_terapan",
+    "jumlah": 3
+  },
+  {
+    "judul": "Jamur Merang",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_terapan",
+    "jumlah": 2
+  },
+  {
+    "judul": "Las Listrik",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Mesin Pintar Komputer",
+    "pengarang": "Soeparmo",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Memperbaiki Alat Listrik Rumah Tangga",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_terapan",
+    "jumlah": 1
+  },
+  {
+    "judul": "Umbi-umbian",
+    "pengarang": "Soedjono",
+    "penerbit": "Rosda Karya",
+    "kategori": "teknologi_terapan",
+    "jumlah": 3
+  },
+  {
+    "judul": "Anak-anak Kereta Api",
+    "pengarang": "Thomrin S",
+    "penerbit": "Alfabeta",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Emas Putih",
+    "pengarang": "Leon Comber",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Kapten Kecil",
+    "pengarang": "Tamsir A.S",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Pemberian Sang Pengemis",
+    "pengarang": "Udin Ono",
+    "penerbit": "CV Bakti Aksara",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Pertempuran Malam",
+    "pengarang": "Syahbuddin M.",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Pesta Mangga",
+    "pengarang": "Thamrin S.",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Pintu Gerbang Kedaton Majapahit",
+    "pengarang": "Sudino & Sari",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "kesusasteraan_dan_umum",
+    "jumlah": 1
+  },
+  {
+    "judul": "Sejarah Bendera",
+    "pengarang": "S. Pusparini",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "geografi_dan_sejarah",
+    "jumlah": 1
+  },
+  {
+    "judul": "Sejarah Sumatra",
+    "pengarang": "William Marsden",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "geografi_dan_sejarah",
+    "jumlah": 1
+  },
+  {
+    "judul": "Sejarah Uang",
+    "pengarang": "T. Krisnadi",
+    "penerbit": "CV Rosda Karya",
+    "kategori": "geografi_dan_sejarah",
+    "jumlah": 1
+  }
+  ]
+}
